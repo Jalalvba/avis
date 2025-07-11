@@ -1,0 +1,2612 @@
+{
+  "data": [
+    {
+      "DateStr": "2024-01-02",
+      "Nombre_DS": 24,
+      "Total_HT_MAD": 14647.92,
+      "Mt_HT_par_DS": 610.33
+    },
+    {
+      "DateStr": "2024-01-03",
+      "Nombre_DS": 33,
+      "Total_HT_MAD": 28239.52,
+      "Mt_HT_par_DS": 855.74
+    },
+    {
+      "DateStr": "2024-01-04",
+      "Nombre_DS": 13,
+      "Total_HT_MAD": 9679.97,
+      "Mt_HT_par_DS": 744.61
+    },
+    {
+      "DateStr": "2024-01-05",
+      "Nombre_DS": 61,
+      "Total_HT_MAD": 23341.38,
+      "Mt_HT_par_DS": 382.65
+    },
+    {
+      "DateStr": "2024-01-06",
+      "Nombre_DS": 33,
+      "Total_HT_MAD": 18639.74,
+      "Mt_HT_par_DS": 564.84
+    },
+    {
+      "DateStr": "2024-01-08",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 24838.72,
+      "Mt_HT_par_DS": 776.21
+    },
+    {
+      "DateStr": "2024-01-09",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 21035.28,
+      "Mt_HT_par_DS": 513.06
+    },
+    {
+      "DateStr": "2024-01-10",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 13063.64,
+      "Mt_HT_par_DS": 362.88
+    },
+    {
+      "DateStr": "2024-01-12",
+      "Nombre_DS": 28,
+      "Total_HT_MAD": 12019.88,
+      "Mt_HT_par_DS": 429.28
+    },
+    {
+      "DateStr": "2024-01-13",
+      "Nombre_DS": 9,
+      "Total_HT_MAD": 4498.78,
+      "Mt_HT_par_DS": 499.86
+    },
+    {
+      "DateStr": "2024-01-15",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 19281.02,
+      "Mt_HT_par_DS": 482.03
+    },
+    {
+      "DateStr": "2024-01-16",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 25573.86,
+      "Mt_HT_par_DS": 639.35
+    },
+    {
+      "DateStr": "2024-01-17",
+      "Nombre_DS": 63,
+      "Total_HT_MAD": 40282.56,
+      "Mt_HT_par_DS": 639.41
+    },
+    {
+      "DateStr": "2024-01-18",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 43322.69,
+      "Mt_HT_par_DS": 1110.84
+    },
+    {
+      "DateStr": "2024-01-19",
+      "Nombre_DS": 26,
+      "Total_HT_MAD": 9094.95,
+      "Mt_HT_par_DS": 349.81
+    },
+    {
+      "DateStr": "2024-01-20",
+      "Nombre_DS": 2,
+      "Total_HT_MAD": 5310.0,
+      "Mt_HT_par_DS": 2655.0
+    },
+    {
+      "DateStr": "2024-01-22",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 14105.65,
+      "Mt_HT_par_DS": 391.82
+    },
+    {
+      "DateStr": "2024-01-23",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 20920.71,
+      "Mt_HT_par_DS": 426.95
+    },
+    {
+      "DateStr": "2024-01-24",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 15528.19,
+      "Mt_HT_par_DS": 419.68
+    },
+    {
+      "DateStr": "2024-01-25",
+      "Nombre_DS": 28,
+      "Total_HT_MAD": 10621.94,
+      "Mt_HT_par_DS": 379.36
+    },
+    {
+      "DateStr": "2024-01-26",
+      "Nombre_DS": 25,
+      "Total_HT_MAD": 11831.43,
+      "Mt_HT_par_DS": 473.26
+    },
+    {
+      "DateStr": "2024-01-27",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 4526.32,
+      "Mt_HT_par_DS": 323.31
+    },
+    {
+      "DateStr": "2024-01-29",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 13608.28,
+      "Mt_HT_par_DS": 438.98
+    },
+    {
+      "DateStr": "2024-01-30",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 23587.17,
+      "Mt_HT_par_DS": 637.49
+    },
+    {
+      "DateStr": "2024-01-31",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 20672.7,
+      "Mt_HT_par_DS": 469.83
+    },
+    {
+      "DateStr": "2024-02-01",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 11540.72,
+      "Mt_HT_par_DS": 329.73
+    },
+    {
+      "DateStr": "2024-02-02",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 14980.93,
+      "Mt_HT_par_DS": 404.89
+    },
+    {
+      "DateStr": "2024-02-03",
+      "Nombre_DS": 11,
+      "Total_HT_MAD": 2486.8,
+      "Mt_HT_par_DS": 226.07
+    },
+    {
+      "DateStr": "2024-02-05",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 17437.47,
+      "Mt_HT_par_DS": 435.94
+    },
+    {
+      "DateStr": "2024-02-06",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 13856.05,
+      "Mt_HT_par_DS": 329.91
+    },
+    {
+      "DateStr": "2024-02-07",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 11275.48,
+      "Mt_HT_par_DS": 363.73
+    },
+    {
+      "DateStr": "2024-02-08",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 13478.77,
+      "Mt_HT_par_DS": 434.8
+    },
+    {
+      "DateStr": "2024-02-09",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 7852.32,
+      "Mt_HT_par_DS": 201.34
+    },
+    {
+      "DateStr": "2024-02-10",
+      "Nombre_DS": 8,
+      "Total_HT_MAD": 2442.27,
+      "Mt_HT_par_DS": 305.28
+    },
+    {
+      "DateStr": "2024-02-12",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 17712.98,
+      "Mt_HT_par_DS": 506.09
+    },
+    {
+      "DateStr": "2024-02-13",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 14225.89,
+      "Mt_HT_par_DS": 323.32
+    },
+    {
+      "DateStr": "2024-02-14",
+      "Nombre_DS": 33,
+      "Total_HT_MAD": 9954.57,
+      "Mt_HT_par_DS": 301.65
+    },
+    {
+      "DateStr": "2024-02-15",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 31670.45,
+      "Mt_HT_par_DS": 833.43
+    },
+    {
+      "DateStr": "2024-02-16",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 12959.71,
+      "Mt_HT_par_DS": 370.28
+    },
+    {
+      "DateStr": "2024-02-17",
+      "Nombre_DS": 17,
+      "Total_HT_MAD": 9835.58,
+      "Mt_HT_par_DS": 578.56
+    },
+    {
+      "DateStr": "2024-02-19",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 44239.84,
+      "Mt_HT_par_DS": 1264.0
+    },
+    {
+      "DateStr": "2024-02-20",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 12643.83,
+      "Mt_HT_par_DS": 308.39
+    },
+    {
+      "DateStr": "2024-02-21",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 12417.28,
+      "Mt_HT_par_DS": 288.77
+    },
+    {
+      "DateStr": "2024-02-22",
+      "Nombre_DS": 24,
+      "Total_HT_MAD": 12023.26,
+      "Mt_HT_par_DS": 500.97
+    },
+    {
+      "DateStr": "2024-02-23",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 8968.67,
+      "Mt_HT_par_DS": 249.13
+    },
+    {
+      "DateStr": "2024-02-26",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 32528.94,
+      "Mt_HT_par_DS": 663.86
+    },
+    {
+      "DateStr": "2024-02-27",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 29991.17,
+      "Mt_HT_par_DS": 576.75
+    },
+    {
+      "DateStr": "2024-02-28",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 18881.55,
+      "Mt_HT_par_DS": 429.13
+    },
+    {
+      "DateStr": "2024-02-29",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 17305.92,
+      "Mt_HT_par_DS": 467.73
+    },
+    {
+      "DateStr": "2024-03-01",
+      "Nombre_DS": 33,
+      "Total_HT_MAD": 13796.0,
+      "Mt_HT_par_DS": 418.06
+    },
+    {
+      "DateStr": "2024-03-02",
+      "Nombre_DS": 18,
+      "Total_HT_MAD": 6764.99,
+      "Mt_HT_par_DS": 375.83
+    },
+    {
+      "DateStr": "2024-03-04",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 15526.39,
+      "Mt_HT_par_DS": 408.59
+    },
+    {
+      "DateStr": "2024-03-05",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 19548.32,
+      "Mt_HT_par_DS": 465.44
+    },
+    {
+      "DateStr": "2024-03-06",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 18023.44,
+      "Mt_HT_par_DS": 487.12
+    },
+    {
+      "DateStr": "2024-03-07",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 21768.01,
+      "Mt_HT_par_DS": 463.15
+    },
+    {
+      "DateStr": "2024-03-08",
+      "Nombre_DS": 23,
+      "Total_HT_MAD": 12870.36,
+      "Mt_HT_par_DS": 559.58
+    },
+    {
+      "DateStr": "2024-03-09",
+      "Nombre_DS": 10,
+      "Total_HT_MAD": 4986.22,
+      "Mt_HT_par_DS": 498.62
+    },
+    {
+      "DateStr": "2024-03-11",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 16372.7,
+      "Mt_HT_par_DS": 327.45
+    },
+    {
+      "DateStr": "2024-03-12",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 13657.1,
+      "Mt_HT_par_DS": 426.78
+    },
+    {
+      "DateStr": "2024-03-13",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 11087.92,
+      "Mt_HT_par_DS": 357.67
+    },
+    {
+      "DateStr": "2024-03-14",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 13454.47,
+      "Mt_HT_par_DS": 420.45
+    },
+    {
+      "DateStr": "2024-03-15",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 15101.56,
+      "Mt_HT_par_DS": 471.92
+    },
+    {
+      "DateStr": "2024-03-16",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 2727.81,
+      "Mt_HT_par_DS": 194.84
+    },
+    {
+      "DateStr": "2024-03-18",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 14622.47,
+      "Mt_HT_par_DS": 406.18
+    },
+    {
+      "DateStr": "2024-03-19",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 13533.69,
+      "Mt_HT_par_DS": 375.94
+    },
+    {
+      "DateStr": "2024-03-20",
+      "Nombre_DS": 26,
+      "Total_HT_MAD": 15586.23,
+      "Mt_HT_par_DS": 599.47
+    },
+    {
+      "DateStr": "2024-03-21",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 10546.59,
+      "Mt_HT_par_DS": 301.33
+    },
+    {
+      "DateStr": "2024-03-22",
+      "Nombre_DS": 26,
+      "Total_HT_MAD": 12352.09,
+      "Mt_HT_par_DS": 475.08
+    },
+    {
+      "DateStr": "2024-03-23",
+      "Nombre_DS": 17,
+      "Total_HT_MAD": 3330.34,
+      "Mt_HT_par_DS": 195.9
+    },
+    {
+      "DateStr": "2024-03-25",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 14446.43,
+      "Mt_HT_par_DS": 412.76
+    },
+    {
+      "DateStr": "2024-03-26",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 29838.91,
+      "Mt_HT_par_DS": 678.16
+    },
+    {
+      "DateStr": "2024-03-27",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 15381.84,
+      "Mt_HT_par_DS": 480.68
+    },
+    {
+      "DateStr": "2024-03-28",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 15515.52,
+      "Mt_HT_par_DS": 500.5
+    },
+    {
+      "DateStr": "2024-03-29",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 16431.0,
+      "Mt_HT_par_DS": 530.03
+    },
+    {
+      "DateStr": "2024-03-30",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 4418.46,
+      "Mt_HT_par_DS": 315.6
+    },
+    {
+      "DateStr": "2024-04-01",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 16775.6,
+      "Mt_HT_par_DS": 453.39
+    },
+    {
+      "DateStr": "2024-04-02",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 17768.89,
+      "Mt_HT_par_DS": 403.84
+    },
+    {
+      "DateStr": "2024-04-03",
+      "Nombre_DS": 26,
+      "Total_HT_MAD": 11549.26,
+      "Mt_HT_par_DS": 444.2
+    },
+    {
+      "DateStr": "2024-04-04",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 17426.37,
+      "Mt_HT_par_DS": 435.66
+    },
+    {
+      "DateStr": "2024-04-05",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 15454.36,
+      "Mt_HT_par_DS": 417.69
+    },
+    {
+      "DateStr": "2024-04-06",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 7104.65,
+      "Mt_HT_par_DS": 507.48
+    },
+    {
+      "DateStr": "2024-04-08",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 14635.08,
+      "Mt_HT_par_DS": 311.38
+    },
+    {
+      "DateStr": "2024-04-09",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 11651.23,
+      "Mt_HT_par_DS": 342.68
+    },
+    {
+      "DateStr": "2024-04-12",
+      "Nombre_DS": 11,
+      "Total_HT_MAD": 6705.92,
+      "Mt_HT_par_DS": 609.63
+    },
+    {
+      "DateStr": "2024-04-13",
+      "Nombre_DS": 7,
+      "Total_HT_MAD": 3651.79,
+      "Mt_HT_par_DS": 521.68
+    },
+    {
+      "DateStr": "2024-04-15",
+      "Nombre_DS": 64,
+      "Total_HT_MAD": 27276.57,
+      "Mt_HT_par_DS": 426.2
+    },
+    {
+      "DateStr": "2024-04-16",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 25981.03,
+      "Mt_HT_par_DS": 552.79
+    },
+    {
+      "DateStr": "2024-04-17",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 7426.85,
+      "Mt_HT_par_DS": 172.72
+    },
+    {
+      "DateStr": "2024-04-18",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 25351.76,
+      "Mt_HT_par_DS": 539.4
+    },
+    {
+      "DateStr": "2024-04-19",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 11014.33,
+      "Mt_HT_par_DS": 305.95
+    },
+    {
+      "DateStr": "2024-04-20",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 7557.86,
+      "Mt_HT_par_DS": 397.78
+    },
+    {
+      "DateStr": "2024-04-22",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 11747.09,
+      "Mt_HT_par_DS": 261.05
+    },
+    {
+      "DateStr": "2024-04-23",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 8420.19,
+      "Mt_HT_par_DS": 233.89
+    },
+    {
+      "DateStr": "2024-04-24",
+      "Nombre_DS": 33,
+      "Total_HT_MAD": 12512.05,
+      "Mt_HT_par_DS": 379.15
+    },
+    {
+      "DateStr": "2024-04-25",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 21908.36,
+      "Mt_HT_par_DS": 547.71
+    },
+    {
+      "DateStr": "2024-04-26",
+      "Nombre_DS": 30,
+      "Total_HT_MAD": 4330.43,
+      "Mt_HT_par_DS": 144.35
+    },
+    {
+      "DateStr": "2024-04-27",
+      "Nombre_DS": 12,
+      "Total_HT_MAD": 1161.0,
+      "Mt_HT_par_DS": 96.75
+    },
+    {
+      "DateStr": "2024-04-29",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 11636.36,
+      "Mt_HT_par_DS": 232.73
+    },
+    {
+      "DateStr": "2024-04-30",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 17801.78,
+      "Mt_HT_par_DS": 456.46
+    },
+    {
+      "DateStr": "2024-05-02",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 13360.53,
+      "Mt_HT_par_DS": 371.13
+    },
+    {
+      "DateStr": "2024-05-03",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 16014.51,
+      "Mt_HT_par_DS": 457.56
+    },
+    {
+      "DateStr": "2024-05-04",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 2466.26,
+      "Mt_HT_par_DS": 176.16
+    },
+    {
+      "DateStr": "2024-05-06",
+      "Nombre_DS": 57,
+      "Total_HT_MAD": 28113.95,
+      "Mt_HT_par_DS": 493.23
+    },
+    {
+      "DateStr": "2024-05-07",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 12847.35,
+      "Mt_HT_par_DS": 291.99
+    },
+    {
+      "DateStr": "2024-05-08",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 29065.61,
+      "Mt_HT_par_DS": 708.92
+    },
+    {
+      "DateStr": "2024-05-09",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 20993.66,
+      "Mt_HT_par_DS": 583.16
+    },
+    {
+      "DateStr": "2024-05-10",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 22222.01,
+      "Mt_HT_par_DS": 529.1
+    },
+    {
+      "DateStr": "2024-05-11",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 6404.26,
+      "Mt_HT_par_DS": 337.07
+    },
+    {
+      "DateStr": "2024-05-13",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 19408.04,
+      "Mt_HT_par_DS": 396.08
+    },
+    {
+      "DateStr": "2024-05-14",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 20624.72,
+      "Mt_HT_par_DS": 491.06
+    },
+    {
+      "DateStr": "2024-05-15",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 22555.36,
+      "Mt_HT_par_DS": 578.34
+    },
+    {
+      "DateStr": "2024-05-16",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 12386.93,
+      "Mt_HT_par_DS": 353.91
+    },
+    {
+      "DateStr": "2024-05-17",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 23254.6,
+      "Mt_HT_par_DS": 611.96
+    },
+    {
+      "DateStr": "2024-05-18",
+      "Nombre_DS": 12,
+      "Total_HT_MAD": 8748.38,
+      "Mt_HT_par_DS": 729.03
+    },
+    {
+      "DateStr": "2024-05-20",
+      "Nombre_DS": 63,
+      "Total_HT_MAD": 29992.16,
+      "Mt_HT_par_DS": 476.07
+    },
+    {
+      "DateStr": "2024-05-21",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 17079.81,
+      "Mt_HT_par_DS": 502.35
+    },
+    {
+      "DateStr": "2024-05-22",
+      "Nombre_DS": 28,
+      "Total_HT_MAD": 11349.17,
+      "Mt_HT_par_DS": 405.33
+    },
+    {
+      "DateStr": "2024-05-23",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 21005.0,
+      "Mt_HT_par_DS": 403.94
+    },
+    {
+      "DateStr": "2024-05-24",
+      "Nombre_DS": 27,
+      "Total_HT_MAD": 14397.65,
+      "Mt_HT_par_DS": 533.25
+    },
+    {
+      "DateStr": "2024-05-25",
+      "Nombre_DS": 18,
+      "Total_HT_MAD": 6381.88,
+      "Mt_HT_par_DS": 354.55
+    },
+    {
+      "DateStr": "2024-05-27",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 31336.67,
+      "Mt_HT_par_DS": 783.42
+    },
+    {
+      "DateStr": "2024-05-28",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 19304.58,
+      "Mt_HT_par_DS": 419.66
+    },
+    {
+      "DateStr": "2024-05-29",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 28910.15,
+      "Mt_HT_par_DS": 688.34
+    },
+    {
+      "DateStr": "2024-05-30",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 19389.99,
+      "Mt_HT_par_DS": 497.18
+    },
+    {
+      "DateStr": "2024-05-31",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 27390.45,
+      "Mt_HT_par_DS": 740.28
+    },
+    {
+      "DateStr": "2024-06-01",
+      "Nombre_DS": 21,
+      "Total_HT_MAD": 10493.37,
+      "Mt_HT_par_DS": 499.68
+    },
+    {
+      "DateStr": "2024-06-03",
+      "Nombre_DS": 48,
+      "Total_HT_MAD": 24217.15,
+      "Mt_HT_par_DS": 504.52
+    },
+    {
+      "DateStr": "2024-06-04",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 22342.01,
+      "Mt_HT_par_DS": 455.96
+    },
+    {
+      "DateStr": "2024-06-05",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 22705.08,
+      "Mt_HT_par_DS": 667.8
+    },
+    {
+      "DateStr": "2024-06-06",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 16992.8,
+      "Mt_HT_par_DS": 485.51
+    },
+    {
+      "DateStr": "2024-06-07",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 28254.99,
+      "Mt_HT_par_DS": 672.74
+    },
+    {
+      "DateStr": "2024-06-08",
+      "Nombre_DS": 8,
+      "Total_HT_MAD": 5090.13,
+      "Mt_HT_par_DS": 636.27
+    },
+    {
+      "DateStr": "2024-06-10",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 43906.72,
+      "Mt_HT_par_DS": 896.06
+    },
+    {
+      "DateStr": "2024-06-11",
+      "Nombre_DS": 56,
+      "Total_HT_MAD": 32356.0,
+      "Mt_HT_par_DS": 577.79
+    },
+    {
+      "DateStr": "2024-06-12",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 27026.27,
+      "Mt_HT_par_DS": 614.23
+    },
+    {
+      "DateStr": "2024-06-13",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 20919.13,
+      "Mt_HT_par_DS": 418.38
+    },
+    {
+      "DateStr": "2024-06-14",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 23147.84,
+      "Mt_HT_par_DS": 514.4
+    },
+    {
+      "DateStr": "2024-06-15",
+      "Nombre_DS": 16,
+      "Total_HT_MAD": 15728.76,
+      "Mt_HT_par_DS": 983.05
+    },
+    {
+      "DateStr": "2024-06-19",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 24271.86,
+      "Mt_HT_par_DS": 577.9
+    },
+    {
+      "DateStr": "2024-06-20",
+      "Nombre_DS": 27,
+      "Total_HT_MAD": 20594.55,
+      "Mt_HT_par_DS": 762.76
+    },
+    {
+      "DateStr": "2024-06-21",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 20648.48,
+      "Mt_HT_par_DS": 529.45
+    },
+    {
+      "DateStr": "2024-06-22",
+      "Nombre_DS": 10,
+      "Total_HT_MAD": 2817.18,
+      "Mt_HT_par_DS": 281.72
+    },
+    {
+      "DateStr": "2024-06-24",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 10495.29,
+      "Mt_HT_par_DS": 299.87
+    },
+    {
+      "DateStr": "2024-06-25",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 34641.66,
+      "Mt_HT_par_DS": 805.62
+    },
+    {
+      "DateStr": "2024-06-26",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 23937.76,
+      "Mt_HT_par_DS": 664.94
+    },
+    {
+      "DateStr": "2024-06-27",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 18379.3,
+      "Mt_HT_par_DS": 427.43
+    },
+    {
+      "DateStr": "2024-06-28",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 12453.21,
+      "Mt_HT_par_DS": 355.81
+    },
+    {
+      "DateStr": "2024-06-29",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 8710.37,
+      "Mt_HT_par_DS": 622.17
+    },
+    {
+      "DateStr": "2024-07-01",
+      "Nombre_DS": 51,
+      "Total_HT_MAD": 23602.26,
+      "Mt_HT_par_DS": 462.79
+    },
+    {
+      "DateStr": "2024-07-02",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 26789.1,
+      "Mt_HT_par_DS": 608.84
+    },
+    {
+      "DateStr": "2024-07-03",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 24384.94,
+      "Mt_HT_par_DS": 625.25
+    },
+    {
+      "DateStr": "2024-07-04",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 17890.84,
+      "Mt_HT_par_DS": 388.93
+    },
+    {
+      "DateStr": "2024-07-05",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 16864.68,
+      "Mt_HT_par_DS": 374.77
+    },
+    {
+      "DateStr": "2024-07-06",
+      "Nombre_DS": 18,
+      "Total_HT_MAD": 5468.0,
+      "Mt_HT_par_DS": 303.78
+    },
+    {
+      "DateStr": "2024-07-08",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 14142.6,
+      "Mt_HT_par_DS": 271.97
+    },
+    {
+      "DateStr": "2024-07-09",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 34454.8,
+      "Mt_HT_par_DS": 662.59
+    },
+    {
+      "DateStr": "2024-07-10",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 15405.42,
+      "Mt_HT_par_DS": 327.77
+    },
+    {
+      "DateStr": "2024-07-11",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 31927.85,
+      "Mt_HT_par_DS": 840.21
+    },
+    {
+      "DateStr": "2024-07-12",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 43324.25,
+      "Mt_HT_par_DS": 1170.93
+    },
+    {
+      "DateStr": "2024-07-13",
+      "Nombre_DS": 21,
+      "Total_HT_MAD": 12280.36,
+      "Mt_HT_par_DS": 584.78
+    },
+    {
+      "DateStr": "2024-07-15",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 36127.11,
+      "Mt_HT_par_DS": 821.07
+    },
+    {
+      "DateStr": "2024-07-16",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 26766.04,
+      "Mt_HT_par_DS": 622.47
+    },
+    {
+      "DateStr": "2024-07-17",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 12770.23,
+      "Mt_HT_par_DS": 283.78
+    },
+    {
+      "DateStr": "2024-07-18",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 21729.28,
+      "Mt_HT_par_DS": 472.38
+    },
+    {
+      "DateStr": "2024-07-19",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 21517.89,
+      "Mt_HT_par_DS": 551.74
+    },
+    {
+      "DateStr": "2024-07-20",
+      "Nombre_DS": 15,
+      "Total_HT_MAD": 10127.3,
+      "Mt_HT_par_DS": 675.15
+    },
+    {
+      "DateStr": "2024-07-22",
+      "Nombre_DS": 63,
+      "Total_HT_MAD": 47281.68,
+      "Mt_HT_par_DS": 750.5
+    },
+    {
+      "DateStr": "2024-07-23",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 16318.74,
+      "Mt_HT_par_DS": 388.54
+    },
+    {
+      "DateStr": "2024-07-24",
+      "Nombre_DS": 30,
+      "Total_HT_MAD": 12706.88,
+      "Mt_HT_par_DS": 423.56
+    },
+    {
+      "DateStr": "2024-07-25",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 30096.54,
+      "Mt_HT_par_DS": 684.01
+    },
+    {
+      "DateStr": "2024-07-26",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 15746.35,
+      "Mt_HT_par_DS": 414.38
+    },
+    {
+      "DateStr": "2024-07-27",
+      "Nombre_DS": 17,
+      "Total_HT_MAD": 8731.58,
+      "Mt_HT_par_DS": 513.62
+    },
+    {
+      "DateStr": "2024-07-29",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 42339.08,
+      "Mt_HT_par_DS": 920.41
+    },
+    {
+      "DateStr": "2024-07-31",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 20994.75,
+      "Mt_HT_par_DS": 512.07
+    },
+    {
+      "DateStr": "2024-08-01",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 16936.93,
+      "Mt_HT_par_DS": 403.26
+    },
+    {
+      "DateStr": "2024-08-02",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 13353.73,
+      "Mt_HT_par_DS": 417.3
+    },
+    {
+      "DateStr": "2024-08-03",
+      "Nombre_DS": 11,
+      "Total_HT_MAD": 2836.52,
+      "Mt_HT_par_DS": 257.87
+    },
+    {
+      "DateStr": "2024-08-05",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 24170.97,
+      "Mt_HT_par_DS": 589.54
+    },
+    {
+      "DateStr": "2024-08-06",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 20783.26,
+      "Mt_HT_par_DS": 424.15
+    },
+    {
+      "DateStr": "2024-08-07",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 22735.68,
+      "Mt_HT_par_DS": 668.7
+    },
+    {
+      "DateStr": "2024-08-08",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 13027.26,
+      "Mt_HT_par_DS": 407.1
+    },
+    {
+      "DateStr": "2024-08-09",
+      "Nombre_DS": 33,
+      "Total_HT_MAD": 24087.47,
+      "Mt_HT_par_DS": 729.92
+    },
+    {
+      "DateStr": "2024-08-10",
+      "Nombre_DS": 12,
+      "Total_HT_MAD": 6714.38,
+      "Mt_HT_par_DS": 559.53
+    },
+    {
+      "DateStr": "2024-08-12",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 23485.68,
+      "Mt_HT_par_DS": 634.75
+    },
+    {
+      "DateStr": "2024-08-13",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 17764.37,
+      "Mt_HT_par_DS": 480.12
+    },
+    {
+      "DateStr": "2024-08-15",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 16744.7,
+      "Mt_HT_par_DS": 418.62
+    },
+    {
+      "DateStr": "2024-08-16",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 13790.94,
+      "Mt_HT_par_DS": 353.61
+    },
+    {
+      "DateStr": "2024-08-17",
+      "Nombre_DS": 8,
+      "Total_HT_MAD": 2159.36,
+      "Mt_HT_par_DS": 269.92
+    },
+    {
+      "DateStr": "2024-08-19",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 12423.14,
+      "Mt_HT_par_DS": 303.0
+    },
+    {
+      "DateStr": "2024-08-22",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 14298.77,
+      "Mt_HT_par_DS": 366.64
+    },
+    {
+      "DateStr": "2024-08-23",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 13736.27,
+      "Mt_HT_par_DS": 371.25
+    },
+    {
+      "DateStr": "2024-08-24",
+      "Nombre_DS": 17,
+      "Total_HT_MAD": 5152.75,
+      "Mt_HT_par_DS": 303.1
+    },
+    {
+      "DateStr": "2024-08-26",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 31885.76,
+      "Mt_HT_par_DS": 613.19
+    },
+    {
+      "DateStr": "2024-08-27",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 7660.53,
+      "Mt_HT_par_DS": 218.87
+    },
+    {
+      "DateStr": "2024-08-28",
+      "Nombre_DS": 28,
+      "Total_HT_MAD": 9563.42,
+      "Mt_HT_par_DS": 341.55
+    },
+    {
+      "DateStr": "2024-08-29",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 19094.7,
+      "Mt_HT_par_DS": 489.61
+    },
+    {
+      "DateStr": "2024-08-30",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 15836.64,
+      "Mt_HT_par_DS": 439.91
+    },
+    {
+      "DateStr": "2024-08-31",
+      "Nombre_DS": 12,
+      "Total_HT_MAD": 3393.84,
+      "Mt_HT_par_DS": 282.82
+    },
+    {
+      "DateStr": "2024-09-02",
+      "Nombre_DS": 48,
+      "Total_HT_MAD": 22472.28,
+      "Mt_HT_par_DS": 468.17
+    },
+    {
+      "DateStr": "2024-09-03",
+      "Nombre_DS": 54,
+      "Total_HT_MAD": 29904.62,
+      "Mt_HT_par_DS": 553.79
+    },
+    {
+      "DateStr": "2024-09-04",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 7602.56,
+      "Mt_HT_par_DS": 217.22
+    },
+    {
+      "DateStr": "2024-09-05",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 13198.84,
+      "Mt_HT_par_DS": 321.92
+    },
+    {
+      "DateStr": "2024-09-06",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 17698.91,
+      "Mt_HT_par_DS": 376.57
+    },
+    {
+      "DateStr": "2024-09-07",
+      "Nombre_DS": 16,
+      "Total_HT_MAD": 7334.89,
+      "Mt_HT_par_DS": 458.43
+    },
+    {
+      "DateStr": "2024-09-09",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 19422.8,
+      "Mt_HT_par_DS": 388.46
+    },
+    {
+      "DateStr": "2024-09-10",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 29826.61,
+      "Mt_HT_par_DS": 648.4
+    },
+    {
+      "DateStr": "2024-09-11",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 16360.46,
+      "Mt_HT_par_DS": 430.54
+    },
+    {
+      "DateStr": "2024-09-12",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 15505.49,
+      "Mt_HT_par_DS": 443.01
+    },
+    {
+      "DateStr": "2024-09-13",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 12412.29,
+      "Mt_HT_par_DS": 335.47
+    },
+    {
+      "DateStr": "2024-09-14",
+      "Nombre_DS": 13,
+      "Total_HT_MAD": 2821.01,
+      "Mt_HT_par_DS": 217.0
+    },
+    {
+      "DateStr": "2024-09-18",
+      "Nombre_DS": 55,
+      "Total_HT_MAD": 17641.14,
+      "Mt_HT_par_DS": 320.75
+    },
+    {
+      "DateStr": "2024-09-19",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 24197.68,
+      "Mt_HT_par_DS": 590.19
+    },
+    {
+      "DateStr": "2024-09-20",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 15245.25,
+      "Mt_HT_par_DS": 423.48
+    },
+    {
+      "DateStr": "2024-09-21",
+      "Nombre_DS": 9,
+      "Total_HT_MAD": 4501.22,
+      "Mt_HT_par_DS": 500.14
+    },
+    {
+      "DateStr": "2024-09-23",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 16895.53,
+      "Mt_HT_par_DS": 412.09
+    },
+    {
+      "DateStr": "2024-09-24",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 13023.34,
+      "Mt_HT_par_DS": 351.98
+    },
+    {
+      "DateStr": "2024-09-25",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 17162.55,
+      "Mt_HT_par_DS": 536.33
+    },
+    {
+      "DateStr": "2024-09-26",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 19725.97,
+      "Mt_HT_par_DS": 505.79
+    },
+    {
+      "DateStr": "2024-09-27",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 13972.1,
+      "Mt_HT_par_DS": 332.67
+    },
+    {
+      "DateStr": "2024-09-28",
+      "Nombre_DS": 20,
+      "Total_HT_MAD": 6564.96,
+      "Mt_HT_par_DS": 328.25
+    },
+    {
+      "DateStr": "2024-09-30",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 11306.3,
+      "Mt_HT_par_DS": 282.66
+    },
+    {
+      "DateStr": "2024-10-01",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 27319.39,
+      "Mt_HT_par_DS": 546.39
+    },
+    {
+      "DateStr": "2024-10-02",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 27755.07,
+      "Mt_HT_par_DS": 730.4
+    },
+    {
+      "DateStr": "2024-10-03",
+      "Nombre_DS": 48,
+      "Total_HT_MAD": 24559.52,
+      "Mt_HT_par_DS": 511.66
+    },
+    {
+      "DateStr": "2024-10-04",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 16601.44,
+      "Mt_HT_par_DS": 436.88
+    },
+    {
+      "DateStr": "2024-10-05",
+      "Nombre_DS": 20,
+      "Total_HT_MAD": 9754.56,
+      "Mt_HT_par_DS": 487.73
+    },
+    {
+      "DateStr": "2024-10-07",
+      "Nombre_DS": 48,
+      "Total_HT_MAD": 25415.16,
+      "Mt_HT_par_DS": 529.48
+    },
+    {
+      "DateStr": "2024-10-08",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 22157.36,
+      "Mt_HT_par_DS": 443.15
+    },
+    {
+      "DateStr": "2024-10-09",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 24252.41,
+      "Mt_HT_par_DS": 527.23
+    },
+    {
+      "DateStr": "2024-10-10",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 15981.14,
+      "Mt_HT_par_DS": 399.53
+    },
+    {
+      "DateStr": "2024-10-11",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 23810.72,
+      "Mt_HT_par_DS": 643.53
+    },
+    {
+      "DateStr": "2024-10-12",
+      "Nombre_DS": 16,
+      "Total_HT_MAD": 5181.0,
+      "Mt_HT_par_DS": 323.81
+    },
+    {
+      "DateStr": "2024-10-14",
+      "Nombre_DS": 59,
+      "Total_HT_MAD": 25893.49,
+      "Mt_HT_par_DS": 438.87
+    },
+    {
+      "DateStr": "2024-10-15",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 27002.95,
+      "Mt_HT_par_DS": 551.08
+    },
+    {
+      "DateStr": "2024-10-16",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 16018.92,
+      "Mt_HT_par_DS": 364.07
+    },
+    {
+      "DateStr": "2024-10-17",
+      "Nombre_DS": 57,
+      "Total_HT_MAD": 16687.3,
+      "Mt_HT_par_DS": 292.76
+    },
+    {
+      "DateStr": "2024-10-18",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 16764.19,
+      "Mt_HT_par_DS": 429.85
+    },
+    {
+      "DateStr": "2024-10-19",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 10419.78,
+      "Mt_HT_par_DS": 744.27
+    },
+    {
+      "DateStr": "2024-10-21",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 12374.13,
+      "Mt_HT_par_DS": 287.77
+    },
+    {
+      "DateStr": "2024-10-22",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 18846.79,
+      "Mt_HT_par_DS": 401.0
+    },
+    {
+      "DateStr": "2024-10-23",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 18369.3,
+      "Mt_HT_par_DS": 417.48
+    },
+    {
+      "DateStr": "2024-10-24",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 18018.73,
+      "Mt_HT_par_DS": 400.42
+    },
+    {
+      "DateStr": "2024-10-25",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 24357.94,
+      "Mt_HT_par_DS": 529.52
+    },
+    {
+      "DateStr": "2024-10-26",
+      "Nombre_DS": 13,
+      "Total_HT_MAD": 3791.96,
+      "Mt_HT_par_DS": 291.69
+    },
+    {
+      "DateStr": "2024-10-28",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 15989.18,
+      "Mt_HT_par_DS": 432.14
+    },
+    {
+      "DateStr": "2024-10-29",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 24762.13,
+      "Mt_HT_par_DS": 634.93
+    },
+    {
+      "DateStr": "2024-10-30",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 22128.62,
+      "Mt_HT_par_DS": 598.07
+    },
+    {
+      "DateStr": "2024-10-31",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 13870.55,
+      "Mt_HT_par_DS": 308.23
+    },
+    {
+      "DateStr": "2024-11-01",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 12309.06,
+      "Mt_HT_par_DS": 341.92
+    },
+    {
+      "DateStr": "2024-11-02",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 3850.65,
+      "Mt_HT_par_DS": 202.67
+    },
+    {
+      "DateStr": "2024-11-04",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 13605.57,
+      "Mt_HT_par_DS": 277.66
+    },
+    {
+      "DateStr": "2024-11-05",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 18355.49,
+      "Mt_HT_par_DS": 367.11
+    },
+    {
+      "DateStr": "2024-11-07",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 12443.55,
+      "Mt_HT_par_DS": 253.95
+    },
+    {
+      "DateStr": "2024-11-08",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 19453.01,
+      "Mt_HT_par_DS": 463.17
+    },
+    {
+      "DateStr": "2024-11-09",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 7227.01,
+      "Mt_HT_par_DS": 380.37
+    },
+    {
+      "DateStr": "2024-11-11",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 23895.38,
+      "Mt_HT_par_DS": 543.08
+    },
+    {
+      "DateStr": "2024-11-12",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 18777.51,
+      "Mt_HT_par_DS": 399.52
+    },
+    {
+      "DateStr": "2024-11-13",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 13105.89,
+      "Mt_HT_par_DS": 319.66
+    },
+    {
+      "DateStr": "2024-11-14",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 13422.55,
+      "Mt_HT_par_DS": 335.56
+    },
+    {
+      "DateStr": "2024-11-15",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 22448.13,
+      "Mt_HT_par_DS": 477.62
+    },
+    {
+      "DateStr": "2024-11-16",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 3378.25,
+      "Mt_HT_par_DS": 177.8
+    },
+    {
+      "DateStr": "2024-11-19",
+      "Nombre_DS": 66,
+      "Total_HT_MAD": 20563.28,
+      "Mt_HT_par_DS": 311.56
+    },
+    {
+      "DateStr": "2024-11-20",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 20181.8,
+      "Mt_HT_par_DS": 429.4
+    },
+    {
+      "DateStr": "2024-11-21",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 19433.99,
+      "Mt_HT_par_DS": 571.59
+    },
+    {
+      "DateStr": "2024-11-22",
+      "Nombre_DS": 53,
+      "Total_HT_MAD": 23799.1,
+      "Mt_HT_par_DS": 449.04
+    },
+    {
+      "DateStr": "2024-11-23",
+      "Nombre_DS": 20,
+      "Total_HT_MAD": 5998.16,
+      "Mt_HT_par_DS": 299.91
+    },
+    {
+      "DateStr": "2024-11-25",
+      "Nombre_DS": 53,
+      "Total_HT_MAD": 26572.35,
+      "Mt_HT_par_DS": 501.37
+    },
+    {
+      "DateStr": "2024-11-26",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 30108.11,
+      "Mt_HT_par_DS": 602.16
+    },
+    {
+      "DateStr": "2024-11-27",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 12124.81,
+      "Mt_HT_par_DS": 356.61
+    },
+    {
+      "DateStr": "2024-11-28",
+      "Nombre_DS": 51,
+      "Total_HT_MAD": 18375.21,
+      "Mt_HT_par_DS": 360.3
+    },
+    {
+      "DateStr": "2024-11-29",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 17660.23,
+      "Mt_HT_par_DS": 519.42
+    },
+    {
+      "DateStr": "2024-11-30",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 3266.17,
+      "Mt_HT_par_DS": 233.3
+    },
+    {
+      "DateStr": "2024-12-02",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 20386.53,
+      "Mt_HT_par_DS": 416.05
+    },
+    {
+      "DateStr": "2024-12-03",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 20203.92,
+      "Mt_HT_par_DS": 388.54
+    },
+    {
+      "DateStr": "2024-12-04",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 19727.2,
+      "Mt_HT_par_DS": 481.15
+    },
+    {
+      "DateStr": "2024-12-05",
+      "Nombre_DS": 28,
+      "Total_HT_MAD": 10293.91,
+      "Mt_HT_par_DS": 367.64
+    },
+    {
+      "DateStr": "2024-12-06",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 15193.56,
+      "Mt_HT_par_DS": 389.58
+    },
+    {
+      "DateStr": "2024-12-07",
+      "Nombre_DS": 17,
+      "Total_HT_MAD": 5306.03,
+      "Mt_HT_par_DS": 312.12
+    },
+    {
+      "DateStr": "2024-12-09",
+      "Nombre_DS": 56,
+      "Total_HT_MAD": 26105.38,
+      "Mt_HT_par_DS": 466.17
+    },
+    {
+      "DateStr": "2024-12-10",
+      "Nombre_DS": 30,
+      "Total_HT_MAD": 10892.3,
+      "Mt_HT_par_DS": 363.08
+    },
+    {
+      "DateStr": "2024-12-11",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 19890.51,
+      "Mt_HT_par_DS": 510.01
+    },
+    {
+      "DateStr": "2024-12-12",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 13373.99,
+      "Mt_HT_par_DS": 393.35
+    },
+    {
+      "DateStr": "2024-12-13",
+      "Nombre_DS": 33,
+      "Total_HT_MAD": 18104.25,
+      "Mt_HT_par_DS": 548.61
+    },
+    {
+      "DateStr": "2024-12-14",
+      "Nombre_DS": 18,
+      "Total_HT_MAD": 8004.17,
+      "Mt_HT_par_DS": 444.68
+    },
+    {
+      "DateStr": "2024-12-16",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 28460.56,
+      "Mt_HT_par_DS": 618.71
+    },
+    {
+      "DateStr": "2024-12-17",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 15666.9,
+      "Mt_HT_par_DS": 373.02
+    },
+    {
+      "DateStr": "2024-12-18",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 21323.79,
+      "Mt_HT_par_DS": 426.48
+    },
+    {
+      "DateStr": "2024-12-19",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 15926.35,
+      "Mt_HT_par_DS": 468.42
+    },
+    {
+      "DateStr": "2024-12-20",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 14439.25,
+      "Mt_HT_par_DS": 379.98
+    },
+    {
+      "DateStr": "2024-12-21",
+      "Nombre_DS": 15,
+      "Total_HT_MAD": 5007.92,
+      "Mt_HT_par_DS": 333.86
+    },
+    {
+      "DateStr": "2024-12-23",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 10940.84,
+      "Mt_HT_par_DS": 232.78
+    },
+    {
+      "DateStr": "2024-12-24",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 10783.63,
+      "Mt_HT_par_DS": 269.59
+    },
+    {
+      "DateStr": "2024-12-25",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 24701.54,
+      "Mt_HT_par_DS": 561.4
+    },
+    {
+      "DateStr": "2024-12-26",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 23522.78,
+      "Mt_HT_par_DS": 500.48
+    },
+    {
+      "DateStr": "2024-12-27",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 21250.26,
+      "Mt_HT_par_DS": 452.13
+    },
+    {
+      "DateStr": "2024-12-28",
+      "Nombre_DS": 7,
+      "Total_HT_MAD": 1489.3,
+      "Mt_HT_par_DS": 212.76
+    },
+    {
+      "DateStr": "2024-12-30",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 22051.44,
+      "Mt_HT_par_DS": 630.04
+    },
+    {
+      "DateStr": "2024-12-31",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 20486.97,
+      "Mt_HT_par_DS": 499.68
+    },
+    {
+      "DateStr": "2025-01-02",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 22002.66,
+      "Mt_HT_par_DS": 564.17
+    },
+    {
+      "DateStr": "2025-01-03",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 47266.61,
+      "Mt_HT_par_DS": 1074.24
+    },
+    {
+      "DateStr": "2025-01-04",
+      "Nombre_DS": 11,
+      "Total_HT_MAD": 2844.42,
+      "Mt_HT_par_DS": 258.58
+    },
+    {
+      "DateStr": "2025-01-06",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 15279.45,
+      "Mt_HT_par_DS": 363.8
+    },
+    {
+      "DateStr": "2025-01-07",
+      "Nombre_DS": 48,
+      "Total_HT_MAD": 16086.24,
+      "Mt_HT_par_DS": 335.13
+    },
+    {
+      "DateStr": "2025-01-08",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 20894.6,
+      "Mt_HT_par_DS": 497.49
+    },
+    {
+      "DateStr": "2025-01-09",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 18545.17,
+      "Mt_HT_par_DS": 463.63
+    },
+    {
+      "DateStr": "2025-01-10",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 16727.89,
+      "Mt_HT_par_DS": 418.2
+    },
+    {
+      "DateStr": "2025-01-13",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 10170.22,
+      "Mt_HT_par_DS": 267.64
+    },
+    {
+      "DateStr": "2025-01-15",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 24247.44,
+      "Mt_HT_par_DS": 673.54
+    },
+    {
+      "DateStr": "2025-01-16",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 7984.66,
+      "Mt_HT_par_DS": 190.11
+    },
+    {
+      "DateStr": "2025-01-17",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 19933.3,
+      "Mt_HT_par_DS": 453.03
+    },
+    {
+      "DateStr": "2025-01-18",
+      "Nombre_DS": 18,
+      "Total_HT_MAD": 4905.68,
+      "Mt_HT_par_DS": 272.54
+    },
+    {
+      "DateStr": "2025-01-20",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 20105.97,
+      "Mt_HT_par_DS": 467.58
+    },
+    {
+      "DateStr": "2025-01-21",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 25890.38,
+      "Mt_HT_par_DS": 616.44
+    },
+    {
+      "DateStr": "2025-01-22",
+      "Nombre_DS": 55,
+      "Total_HT_MAD": 28086.66,
+      "Mt_HT_par_DS": 510.67
+    },
+    {
+      "DateStr": "2025-01-23",
+      "Nombre_DS": 48,
+      "Total_HT_MAD": 19654.62,
+      "Mt_HT_par_DS": 409.47
+    },
+    {
+      "DateStr": "2025-01-24",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 27101.3,
+      "Mt_HT_par_DS": 615.94
+    },
+    {
+      "DateStr": "2025-01-25",
+      "Nombre_DS": 17,
+      "Total_HT_MAD": 5438.95,
+      "Mt_HT_par_DS": 319.94
+    },
+    {
+      "DateStr": "2025-01-27",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 30983.98,
+      "Mt_HT_par_DS": 720.56
+    },
+    {
+      "DateStr": "2025-01-28",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 8478.47,
+      "Mt_HT_par_DS": 235.51
+    },
+    {
+      "DateStr": "2025-01-29",
+      "Nombre_DS": 24,
+      "Total_HT_MAD": 9147.11,
+      "Mt_HT_par_DS": 381.13
+    },
+    {
+      "DateStr": "2025-01-30",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 13244.13,
+      "Mt_HT_par_DS": 389.53
+    },
+    {
+      "DateStr": "2025-01-31",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 12820.09,
+      "Mt_HT_par_DS": 312.69
+    },
+    {
+      "DateStr": "2025-02-01",
+      "Nombre_DS": 16,
+      "Total_HT_MAD": 10872.82,
+      "Mt_HT_par_DS": 679.55
+    },
+    {
+      "DateStr": "2025-02-03",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 35532.37,
+      "Mt_HT_par_DS": 807.55
+    },
+    {
+      "DateStr": "2025-02-04",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 38027.34,
+      "Mt_HT_par_DS": 809.09
+    },
+    {
+      "DateStr": "2025-02-05",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 27540.54,
+      "Mt_HT_par_DS": 744.34
+    },
+    {
+      "DateStr": "2025-02-06",
+      "Nombre_DS": 28,
+      "Total_HT_MAD": 19256.01,
+      "Mt_HT_par_DS": 687.71
+    },
+    {
+      "DateStr": "2025-02-07",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 27877.85,
+      "Mt_HT_par_DS": 733.63
+    },
+    {
+      "DateStr": "2025-02-08",
+      "Nombre_DS": 15,
+      "Total_HT_MAD": 6895.3,
+      "Mt_HT_par_DS": 459.69
+    },
+    {
+      "DateStr": "2025-02-10",
+      "Nombre_DS": 51,
+      "Total_HT_MAD": 43419.26,
+      "Mt_HT_par_DS": 851.36
+    },
+    {
+      "DateStr": "2025-02-11",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 31652.97,
+      "Mt_HT_par_DS": 772.02
+    },
+    {
+      "DateStr": "2025-02-12",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 35170.86,
+      "Mt_HT_par_DS": 717.77
+    },
+    {
+      "DateStr": "2025-02-13",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 29633.59,
+      "Mt_HT_par_DS": 658.52
+    },
+    {
+      "DateStr": "2025-02-14",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 23958.34,
+      "Mt_HT_par_DS": 630.48
+    },
+    {
+      "DateStr": "2025-02-15",
+      "Nombre_DS": 12,
+      "Total_HT_MAD": 8048.32,
+      "Mt_HT_par_DS": 670.69
+    },
+    {
+      "DateStr": "2025-02-17",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 24081.11,
+      "Mt_HT_par_DS": 633.71
+    },
+    {
+      "DateStr": "2025-02-18",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 34658.71,
+      "Mt_HT_par_DS": 825.21
+    },
+    {
+      "DateStr": "2025-02-19",
+      "Nombre_DS": 29,
+      "Total_HT_MAD": 26025.38,
+      "Mt_HT_par_DS": 897.43
+    },
+    {
+      "DateStr": "2025-02-20",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 31360.2,
+      "Mt_HT_par_DS": 804.11
+    },
+    {
+      "DateStr": "2025-02-21",
+      "Nombre_DS": 38,
+      "Total_HT_MAD": 33191.08,
+      "Mt_HT_par_DS": 873.45
+    },
+    {
+      "DateStr": "2025-02-22",
+      "Nombre_DS": 16,
+      "Total_HT_MAD": 6947.94,
+      "Mt_HT_par_DS": 434.25
+    },
+    {
+      "DateStr": "2025-02-24",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 45201.62,
+      "Mt_HT_par_DS": 922.48
+    },
+    {
+      "DateStr": "2025-02-25",
+      "Nombre_DS": 46,
+      "Total_HT_MAD": 44610.33,
+      "Mt_HT_par_DS": 969.79
+    },
+    {
+      "DateStr": "2025-02-26",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 36072.27,
+      "Mt_HT_par_DS": 858.86
+    },
+    {
+      "DateStr": "2025-02-27",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 62270.12,
+      "Mt_HT_par_DS": 1383.78
+    },
+    {
+      "DateStr": "2025-02-28",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 21411.68,
+      "Mt_HT_par_DS": 690.7
+    },
+    {
+      "DateStr": "2025-03-01",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 6829.92,
+      "Mt_HT_par_DS": 487.85
+    },
+    {
+      "DateStr": "2025-03-03",
+      "Nombre_DS": 22,
+      "Total_HT_MAD": 17818.41,
+      "Mt_HT_par_DS": 809.93
+    },
+    {
+      "DateStr": "2025-03-04",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 39761.48,
+      "Mt_HT_par_DS": 811.46
+    },
+    {
+      "DateStr": "2025-03-05",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 35391.6,
+      "Mt_HT_par_DS": 842.66
+    },
+    {
+      "DateStr": "2025-03-06",
+      "Nombre_DS": 51,
+      "Total_HT_MAD": 31627.36,
+      "Mt_HT_par_DS": 620.14
+    },
+    {
+      "DateStr": "2025-03-07",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 34918.33,
+      "Mt_HT_par_DS": 671.51
+    },
+    {
+      "DateStr": "2025-03-08",
+      "Nombre_DS": 10,
+      "Total_HT_MAD": 5557.17,
+      "Mt_HT_par_DS": 555.72
+    },
+    {
+      "DateStr": "2025-03-10",
+      "Nombre_DS": 51,
+      "Total_HT_MAD": 48179.61,
+      "Mt_HT_par_DS": 944.7
+    },
+    {
+      "DateStr": "2025-03-11",
+      "Nombre_DS": 53,
+      "Total_HT_MAD": 38006.36,
+      "Mt_HT_par_DS": 717.1
+    },
+    {
+      "DateStr": "2025-03-12",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 36014.98,
+      "Mt_HT_par_DS": 857.5
+    },
+    {
+      "DateStr": "2025-03-13",
+      "Nombre_DS": 57,
+      "Total_HT_MAD": 40788.2,
+      "Mt_HT_par_DS": 715.58
+    },
+    {
+      "DateStr": "2025-03-14",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 23720.89,
+      "Mt_HT_par_DS": 564.78
+    },
+    {
+      "DateStr": "2025-03-15",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 8543.9,
+      "Mt_HT_par_DS": 610.28
+    },
+    {
+      "DateStr": "2025-03-17",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 20871.45,
+      "Mt_HT_par_DS": 596.33
+    },
+    {
+      "DateStr": "2025-03-18",
+      "Nombre_DS": 49,
+      "Total_HT_MAD": 27773.64,
+      "Mt_HT_par_DS": 566.81
+    },
+    {
+      "DateStr": "2025-03-19",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 31411.37,
+      "Mt_HT_par_DS": 872.54
+    },
+    {
+      "DateStr": "2025-03-20",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 28415.99,
+      "Mt_HT_par_DS": 835.76
+    },
+    {
+      "DateStr": "2025-03-21",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 28966.47,
+      "Mt_HT_par_DS": 905.2
+    },
+    {
+      "DateStr": "2025-03-22",
+      "Nombre_DS": 10,
+      "Total_HT_MAD": 5427.62,
+      "Mt_HT_par_DS": 542.76
+    },
+    {
+      "DateStr": "2025-03-24",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 35016.52,
+      "Mt_HT_par_DS": 745.03
+    },
+    {
+      "DateStr": "2025-03-25",
+      "Nombre_DS": 30,
+      "Total_HT_MAD": 21095.33,
+      "Mt_HT_par_DS": 703.18
+    },
+    {
+      "DateStr": "2025-03-26",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 34535.81,
+      "Mt_HT_par_DS": 803.16
+    },
+    {
+      "DateStr": "2025-03-27",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 29614.8,
+      "Mt_HT_par_DS": 800.4
+    },
+    {
+      "DateStr": "2025-03-28",
+      "Nombre_DS": 34,
+      "Total_HT_MAD": 18678.78,
+      "Mt_HT_par_DS": 549.38
+    },
+    {
+      "DateStr": "2025-03-29",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 12579.96,
+      "Mt_HT_par_DS": 662.1
+    },
+    {
+      "DateStr": "2025-04-02",
+      "Nombre_DS": 57,
+      "Total_HT_MAD": 36328.99,
+      "Mt_HT_par_DS": 637.35
+    },
+    {
+      "DateStr": "2025-04-03",
+      "Nombre_DS": 53,
+      "Total_HT_MAD": 32576.73,
+      "Mt_HT_par_DS": 614.66
+    },
+    {
+      "DateStr": "2025-04-04",
+      "Nombre_DS": 53,
+      "Total_HT_MAD": 48782.13,
+      "Mt_HT_par_DS": 920.42
+    },
+    {
+      "DateStr": "2025-04-05",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 9179.21,
+      "Mt_HT_par_DS": 483.12
+    },
+    {
+      "DateStr": "2025-04-07",
+      "Nombre_DS": 51,
+      "Total_HT_MAD": 39694.05,
+      "Mt_HT_par_DS": 778.31
+    },
+    {
+      "DateStr": "2025-04-08",
+      "Nombre_DS": 50,
+      "Total_HT_MAD": 38162.86,
+      "Mt_HT_par_DS": 763.26
+    },
+    {
+      "DateStr": "2025-04-09",
+      "Nombre_DS": 48,
+      "Total_HT_MAD": 39297.76,
+      "Mt_HT_par_DS": 818.7
+    },
+    {
+      "DateStr": "2025-04-10",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 39133.19,
+      "Mt_HT_par_DS": 752.56
+    },
+    {
+      "DateStr": "2025-04-11",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 29877.89,
+      "Mt_HT_par_DS": 728.73
+    },
+    {
+      "DateStr": "2025-04-12",
+      "Nombre_DS": 24,
+      "Total_HT_MAD": 14015.56,
+      "Mt_HT_par_DS": 583.98
+    },
+    {
+      "DateStr": "2025-04-14",
+      "Nombre_DS": 60,
+      "Total_HT_MAD": 49579.24,
+      "Mt_HT_par_DS": 826.32
+    },
+    {
+      "DateStr": "2025-04-15",
+      "Nombre_DS": 56,
+      "Total_HT_MAD": 44303.44,
+      "Mt_HT_par_DS": 791.13
+    },
+    {
+      "DateStr": "2025-04-16",
+      "Nombre_DS": 55,
+      "Total_HT_MAD": 47098.62,
+      "Mt_HT_par_DS": 856.34
+    },
+    {
+      "DateStr": "2025-04-17",
+      "Nombre_DS": 43,
+      "Total_HT_MAD": 28532.8,
+      "Mt_HT_par_DS": 663.55
+    },
+    {
+      "DateStr": "2025-04-18",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 33091.7,
+      "Mt_HT_par_DS": 894.37
+    },
+    {
+      "DateStr": "2025-04-19",
+      "Nombre_DS": 14,
+      "Total_HT_MAD": 9218.27,
+      "Mt_HT_par_DS": 658.45
+    },
+    {
+      "DateStr": "2025-04-21",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 33119.21,
+      "Mt_HT_par_DS": 735.98
+    },
+    {
+      "DateStr": "2025-04-22",
+      "Nombre_DS": 45,
+      "Total_HT_MAD": 37991.97,
+      "Mt_HT_par_DS": 844.27
+    },
+    {
+      "DateStr": "2025-04-23",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 27418.02,
+      "Mt_HT_par_DS": 703.03
+    },
+    {
+      "DateStr": "2025-04-24",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 37136.12,
+      "Mt_HT_par_DS": 790.13
+    },
+    {
+      "DateStr": "2025-04-25",
+      "Nombre_DS": 31,
+      "Total_HT_MAD": 23201.92,
+      "Mt_HT_par_DS": 748.45
+    },
+    {
+      "DateStr": "2025-04-26",
+      "Nombre_DS": 19,
+      "Total_HT_MAD": 17400.48,
+      "Mt_HT_par_DS": 915.81
+    },
+    {
+      "DateStr": "2025-04-28",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 38098.79,
+      "Mt_HT_par_DS": 952.47
+    },
+    {
+      "DateStr": "2025-04-29",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 28074.6,
+      "Mt_HT_par_DS": 802.13
+    },
+    {
+      "DateStr": "2025-04-30",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 23251.02,
+      "Mt_HT_par_DS": 628.41
+    },
+    {
+      "DateStr": "2025-05-02",
+      "Nombre_DS": 39,
+      "Total_HT_MAD": 22830.98,
+      "Mt_HT_par_DS": 585.41
+    },
+    {
+      "DateStr": "2025-05-03",
+      "Nombre_DS": 16,
+      "Total_HT_MAD": 14087.82,
+      "Mt_HT_par_DS": 880.49
+    },
+    {
+      "DateStr": "2025-05-05",
+      "Nombre_DS": 61,
+      "Total_HT_MAD": 46753.23,
+      "Mt_HT_par_DS": 766.45
+    },
+    {
+      "DateStr": "2025-05-06",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 30344.81,
+      "Mt_HT_par_DS": 722.5
+    },
+    {
+      "DateStr": "2025-05-07",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 25463.78,
+      "Mt_HT_par_DS": 606.28
+    },
+    {
+      "DateStr": "2025-05-08",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 52126.2,
+      "Mt_HT_par_DS": 1002.43
+    },
+    {
+      "DateStr": "2025-05-09",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 22129.91,
+      "Mt_HT_par_DS": 614.72
+    },
+    {
+      "DateStr": "2025-05-12",
+      "Nombre_DS": 72,
+      "Total_HT_MAD": 56418.51,
+      "Mt_HT_par_DS": 783.59
+    },
+    {
+      "DateStr": "2025-05-13",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 39382.67,
+      "Mt_HT_par_DS": 895.06
+    },
+    {
+      "DateStr": "2025-05-14",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 36324.99,
+      "Mt_HT_par_DS": 698.56
+    },
+    {
+      "DateStr": "2025-05-15",
+      "Nombre_DS": 42,
+      "Total_HT_MAD": 30276.2,
+      "Mt_HT_par_DS": 720.86
+    },
+    {
+      "DateStr": "2025-05-16",
+      "Nombre_DS": 35,
+      "Total_HT_MAD": 27994.09,
+      "Mt_HT_par_DS": 799.83
+    },
+    {
+      "DateStr": "2025-05-17",
+      "Nombre_DS": 13,
+      "Total_HT_MAD": 7377.6,
+      "Mt_HT_par_DS": 567.51
+    },
+    {
+      "DateStr": "2025-05-19",
+      "Nombre_DS": 64,
+      "Total_HT_MAD": 52188.92,
+      "Mt_HT_par_DS": 815.45
+    },
+    {
+      "DateStr": "2025-05-20",
+      "Nombre_DS": 41,
+      "Total_HT_MAD": 30330.43,
+      "Mt_HT_par_DS": 739.77
+    },
+    {
+      "DateStr": "2025-05-21",
+      "Nombre_DS": 37,
+      "Total_HT_MAD": 35480.66,
+      "Mt_HT_par_DS": 958.94
+    },
+    {
+      "DateStr": "2025-05-22",
+      "Nombre_DS": 32,
+      "Total_HT_MAD": 21050.27,
+      "Mt_HT_par_DS": 657.82
+    },
+    {
+      "DateStr": "2025-05-23",
+      "Nombre_DS": 47,
+      "Total_HT_MAD": 36299.18,
+      "Mt_HT_par_DS": 772.32
+    },
+    {
+      "DateStr": "2025-05-24",
+      "Nombre_DS": 25,
+      "Total_HT_MAD": 15239.63,
+      "Mt_HT_par_DS": 609.59
+    },
+    {
+      "DateStr": "2025-05-26",
+      "Nombre_DS": 52,
+      "Total_HT_MAD": 36241.63,
+      "Mt_HT_par_DS": 696.95
+    },
+    {
+      "DateStr": "2025-05-27",
+      "Nombre_DS": 36,
+      "Total_HT_MAD": 31166.25,
+      "Mt_HT_par_DS": 865.73
+    },
+    {
+      "DateStr": "2025-05-28",
+      "Nombre_DS": 44,
+      "Total_HT_MAD": 33018.22,
+      "Mt_HT_par_DS": 750.41
+    },
+    {
+      "DateStr": "2025-05-29",
+      "Nombre_DS": 40,
+      "Total_HT_MAD": 31319.38,
+      "Mt_HT_par_DS": 782.98
+    },
+    {
+      "DateStr": "2025-05-30",
+      "Nombre_DS": 59,
+      "Total_HT_MAD": 39364.96,
+      "Mt_HT_par_DS": 667.2
+    },
+    {
+      "DateStr": "2025-05-31",
+      "Nombre_DS": 15,
+      "Total_HT_MAD": 10777.53,
+      "Mt_HT_par_DS": 718.5
+    }
+  ],
+  "meta": {
+    "mean_nombre_ds": 36.96,
+    "std_nombre_ds": 12.68,
+    "line_mean_ds": 36.96,
+    "line_upper_ds": 49.64,
+    "line_lower_ds": 24.28,
+    "mean_mt_ht_per_ds": 534.04,
+    "std_mt_ht_per_ds": 226.19,
+    "line_mean_mt_ht": 534.04,
+    "line_upper_mt_ht": 760.23,
+    "line_lower_mt_ht": 307.85
+  },
+  "monthly_totals": [
+    {
+      "Month": "2024-01",
+      "Total_DS": 821
+    },
+    {
+      "Month": "2024-02",
+      "Total_DS": 837
+    },
+    {
+      "Month": "2024-03",
+      "Total_DS": 802
+    },
+    {
+      "Month": "2024-04",
+      "Total_DS": 838
+    },
+    {
+      "Month": "2024-05",
+      "Total_DS": 965
+    },
+    {
+      "Month": "2024-06",
+      "Total_DS": 821
+    },
+    {
+      "Month": "2024-07",
+      "Total_DS": 1043
+    },
+    {
+      "Month": "2024-08",
+      "Total_DS": 783
+    },
+    {
+      "Month": "2024-09",
+      "Total_DS": 852
+    },
+    {
+      "Month": "2024-10",
+      "Total_DS": 1089
+    },
+    {
+      "Month": "2024-11",
+      "Total_DS": 958
+    },
+    {
+      "Month": "2024-12",
+      "Total_DS": 969
+    },
+    {
+      "Month": "2025-01",
+      "Total_DS": 911
+    },
+    {
+      "Month": "2025-02",
+      "Total_DS": 876
+    },
+    {
+      "Month": "2025-03",
+      "Total_DS": 905
+    },
+    {
+      "Month": "2025-04",
+      "Total_DS": 1051
+    },
+    {
+      "Month": "2025-05",
+      "Total_DS": 1038
+    }
+  ]
+}

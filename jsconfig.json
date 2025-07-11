@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",              // Root is the frontend/ folder
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["app/*"]           // @/ maps to frontend/app/
     }
-  }
+  },
+  "include": ["app"]
 }

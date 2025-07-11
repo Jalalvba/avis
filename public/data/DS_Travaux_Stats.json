@@ -1,0 +1,48 @@
+{
+  "month": 6,
+  "year": 2024,
+  "data": [
+    {
+      "type_travaux_dominant": "carrosserie",
+      "Nombre_DS": 4,
+      "Total_HT_MAD": 2543.59,
+      "Moyenne_HT_par_DS": 635.9,
+      "Ecart_Type_HT": 382.43
+    },
+    {
+      "type_travaux_dominant": "diagnostic",
+      "Nombre_DS": 58,
+      "Total_HT_MAD": 712.82,
+      "Moyenne_HT_par_DS": 12.29,
+      "Ecart_Type_HT": 71.85
+    },
+    {
+      "type_travaux_dominant": "electrique",
+      "Nombre_DS": 66,
+      "Total_HT_MAD": 33636.19,
+      "Moyenne_HT_par_DS": 509.64,
+      "Ecart_Type_HT": 540.53
+    },
+    {
+      "type_travaux_dominant": "mécanique",
+      "Nombre_DS": 80,
+      "Total_HT_MAD": 115447.24,
+      "Moyenne_HT_par_DS": 1443.09,
+      "Ecart_Type_HT": 1413.91
+    },
+    {
+      "type_travaux_dominant": "pneumatique",
+      "Nombre_DS": 82,
+      "Total_HT_MAD": 96857.98,
+      "Moyenne_HT_par_DS": 1181.19,
+      "Ecart_Type_HT": 512.12
+    },
+    {
+      "type_travaux_dominant": "service rapide",
+      "Nombre_DS": 531,
+      "Total_HT_MAD": 220932.1,
+      "Moyenne_HT_par_DS": 416.07,
+      "Ecart_Type_HT": 558.25
+    }
+  ]
+}

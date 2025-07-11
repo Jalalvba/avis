@@ -1,0 +1,1826 @@
+{
+  "2024": {
+    "Diagnostic": {
+      "Diagnostic": {
+        "Count": 10691,
+        "Total_HT_MAD": 2.0
+      }
+    },
+    "Mécanique": {
+      " demarur": {
+        "Count": 43,
+        "Total_HT_MAD": 120.0
+      },
+      " durite": {
+        "Count": 3,
+        "Total_HT_MAD": 0.0
+      },
+      " echangeur d huile": {
+        "Count": 1,
+        "Total_HT_MAD": 1426.3
+      },
+      " pompe a eau": {
+        "Count": 1,
+        "Total_HT_MAD": 492.0
+      },
+      " pompe eau": {
+        "Count": 3,
+        "Total_HT_MAD": 0.0
+      },
+      " pompe lave glace": {
+        "Count": 1,
+        "Total_HT_MAD": 0.0
+      },
+      " roulement": {
+        "Count": 13,
+        "Total_HT_MAD": 0.0
+      },
+      " thermostat": {
+        "Count": 4,
+        "Total_HT_MAD": 1100.0
+      },
+      "ARRET D HUILE": {
+        "Count": 16,
+        "Total_HT_MAD": 5370.31
+      },
+      "Arbre a  cames": {
+        "Count": 2,
+        "Total_HT_MAD": 5384.62
+      },
+      "Crémaillè": {
+        "Count": 4,
+        "Total_HT_MAD": 12176.92
+      },
+      "Réparation": {
+        "Count": 24,
+        "Total_HT_MAD": 0.0
+      },
+      "Réparation éclairage": {
+        "Count": 813,
+        "Total_HT_MAD": 120.0
+      },
+      "amortisseur": {
+        "Count": 144,
+        "Total_HT_MAD": 131419.6
+      },
+      "bielette": {
+        "Count": 8,
+        "Total_HT_MAD": 1345.18
+      },
+      "biellette amortisseur": {
+        "Count": 1,
+        "Total_HT_MAD": 310.0
+      },
+      "bouchon": {
+        "Count": 6,
+        "Total_HT_MAD": 643.96
+      },
+      "bougie": {
+        "Count": 10,
+        "Total_HT_MAD": 7753.57
+      },
+      "bougies": {
+        "Count": 3,
+        "Total_HT_MAD": 0.0
+      },
+      "boîte à vitesse": {
+        "Count": 9,
+        "Total_HT_MAD": 25233.33
+      },
+      "cable mécanique": {
+        "Count": 1,
+        "Total_HT_MAD": 1474.36
+      },
+      "cache soupape": {
+        "Count": 2,
+        "Total_HT_MAD": 691.67
+      },
+      "capteur de niveau d huile": {
+        "Count": 2,
+        "Total_HT_MAD": 1028.38
+      },
+      "ccessoi meca": {
+        "Count": 6,
+        "Total_HT_MAD": 2531.84
+      },
+      "chaine de distribution": {
+        "Count": 1,
+        "Total_HT_MAD": 1798.92
+      },
+      "chaine pompe a huile": {
+        "Count": 1,
+        "Total_HT_MAD": 916.67
+      },
+      "chang courroie alternateur": {
+        "Count": 5,
+        "Total_HT_MAD": 0.0
+      },
+      "chang courroie distribution": {
+        "Count": 1,
+        "Total_HT_MAD": 106.0
+      },
+      "charge climatisation": {
+        "Count": 19,
+        "Total_HT_MAD": 350.0
+      },
+      "collecteur d echappement": {
+        "Count": 4,
+        "Total_HT_MAD": 7793.46
+      },
+      "compsseur clim": {
+        "Count": 2,
+        "Total_HT_MAD": 3006.4
+      },
+      "courroie alternateur": {
+        "Count": 138,
+        "Total_HT_MAD": 18325.62
+      },
+      "courroie clim": {
+        "Count": 1,
+        "Total_HT_MAD": 119.0
+      },
+      "courroie d accessoi": {
+        "Count": 81,
+        "Total_HT_MAD": 7595.7
+      },
+      "courroie de distribution": {
+        "Count": 1,
+        "Total_HT_MAD": 929.54
+      },
+      "courroie ventilateur": {
+        "Count": 3,
+        "Total_HT_MAD": 384.0
+      },
+      "coussinet": {
+        "Count": 1,
+        "Total_HT_MAD": 250.0
+      },
+      "coussinet bar stabilisatrice": {
+        "Count": 1,
+        "Total_HT_MAD": 230.77
+      },
+      "coussinet bielle": {
+        "Count": 4,
+        "Total_HT_MAD": 1208.31
+      },
+      "couvercle lateral moteur": {
+        "Count": 1,
+        "Total_HT_MAD": 675.58
+      },
+      "culasse": {
+        "Count": 4,
+        "Total_HT_MAD": 14853.65
+      },
+      "culbuteur": {
+        "Count": 1,
+        "Total_HT_MAD": 3000.0
+      },
+      "culbuteur soupape": {
+        "Count": 2,
+        "Total_HT_MAD": 5897.44
+      },
+      "debima t air complet sond": {
+        "Count": 2,
+        "Total_HT_MAD": 1166.67
+      },
+      "demarur": {
+        "Count": 112,
+        "Total_HT_MAD": 82816.66
+      },
+      "disque frein": {
+        "Count": 178,
+        "Total_HT_MAD": 142120.27
+      },
+      "durite": {
+        "Count": 10,
+        "Total_HT_MAD": 10537.69
+      },
+      "durite air": {
+        "Count": 3,
+        "Total_HT_MAD": 4233.33
+      },
+      "durite air intercoller": {
+        "Count": 2,
+        "Total_HT_MAD": 3461.54
+      },
+      "durite d admission": {
+        "Count": 1,
+        "Total_HT_MAD": 900.0
+      },
+      "durite eau radiateur": {
+        "Count": 10,
+        "Total_HT_MAD": 4226.21
+      },
+      "durite radiateur d eau": {
+        "Count": 3,
+        "Total_HT_MAD": 3115.39
+      },
+      "echangeur thermique": {
+        "Count": 58,
+        "Total_HT_MAD": 32107.15
+      },
+      "electrovane egr": {
+        "Count": 5,
+        "Total_HT_MAD": 13615.38
+      },
+      "embrayage": {
+        "Count": 232,
+        "Total_HT_MAD": 281049.97
+      },
+      "etrier de fin ar g d": {
+        "Count": 1,
+        "Total_HT_MAD": 2083.33
+      },
+      "etrier de fin av ar": {
+        "Count": 4,
+        "Total_HT_MAD": 5654.17
+      },
+      "fin a main": {
+        "Count": 1,
+        "Total_HT_MAD": 650.0
+      },
+      "flexible clim sup d": {
+        "Count": 2,
+        "Total_HT_MAD": 2066.67
+      },
+      "flexible de fin avd": {
+        "Count": 1,
+        "Total_HT_MAD": 1217.95
+      },
+      "fusee avd": {
+        "Count": 1,
+        "Total_HT_MAD": 950.0
+      },
+      "glissi  chaine distributiond": {
+        "Count": 1,
+        "Total_HT_MAD": 1545.8
+      },
+      "glissi  chaine distributiong": {
+        "Count": 1,
+        "Total_HT_MAD": 1080.0
+      },
+      "groupe cylind": {
+        "Count": 1,
+        "Total_HT_MAD": 7000.0
+      },
+      "injecteur pompe": {
+        "Count": 1,
+        "Total_HT_MAD": 3293.64
+      },
+      "intercooler echangeur d air": {
+        "Count": 1,
+        "Total_HT_MAD": 2100.0
+      },
+      "jauge a huile": {
+        "Count": 1,
+        "Total_HT_MAD": 2500.0
+      },
+      "jeux de coussinets de bielle": {
+        "Count": 1,
+        "Total_HT_MAD": 232.0
+      },
+      "joint cache soupape": {
+        "Count": 12,
+        "Total_HT_MAD": 2266.44
+      },
+      "joint collecteur echappement": {
+        "Count": 1,
+        "Total_HT_MAD": 410.26
+      },
+      "joint de cache culbuteur": {
+        "Count": 3,
+        "Total_HT_MAD": 3075.26
+      },
+      "joint de carter d huile": {
+        "Count": 3,
+        "Total_HT_MAD": 1084.67
+      },
+      "joint de chemise": {
+        "Count": 1,
+        "Total_HT_MAD": 365.0
+      },
+      "joint de collecteur admission": {
+        "Count": 1,
+        "Total_HT_MAD": 282.05
+      },
+      "joint de culasse": {
+        "Count": 31,
+        "Total_HT_MAD": 14399.61
+      },
+      "joint de vidange": {
+        "Count": 1,
+        "Total_HT_MAD": 35.0
+      },
+      "joint ent porte arg": {
+        "Count": 2,
+        "Total_HT_MAD": 2307.7
+      },
+      "joint inf de porte avd": {
+        "Count": 2,
+        "Total_HT_MAD": 3144.88
+      },
+      "joint inf porte avg": {
+        "Count": 1,
+        "Total_HT_MAD": 583.33
+      },
+      "joint malle ar": {
+        "Count": 1,
+        "Total_HT_MAD": 500.0
+      },
+      "joint porte av g": {
+        "Count": 2,
+        "Total_HT_MAD": 1284.62
+      },
+      "joint porte collissante lat dt": {
+        "Count": 3,
+        "Total_HT_MAD": 1980.0
+      },
+      "joint vit porte colissante l": {
+        "Count": 1,
+        "Total_HT_MAD": 800.0
+      },
+      "kit chaine arb a cames": {
+        "Count": 1,
+        "Total_HT_MAD": 961.54
+      },
+      "kit de distribution": {
+        "Count": 646,
+        "Total_HT_MAD": 258345.06
+      },
+      "levier boite de vitesse": {
+        "Count": 3,
+        "Total_HT_MAD": 3733.33
+      },
+      "liquide de fin 1l": {
+        "Count": 108,
+        "Total_HT_MAD": 3832.73
+      },
+      "liquide de fin 450 ml": {
+        "Count": 47,
+        "Total_HT_MAD": 1649.99
+      },
+      "mait cylind": {
+        "Count": 2,
+        "Total_HT_MAD": 1486.25
+      },
+      "mano d huile": {
+        "Count": 2,
+        "Total_HT_MAD": 203.0
+      },
+      "mano de culasse": {
+        "Count": 1,
+        "Total_HT_MAD": 800.0
+      },
+      "master back servo fin": {
+        "Count": 2,
+        "Total_HT_MAD": 4006.41
+      },
+      "moteur essuie glace": {
+        "Count": 16,
+        "Total_HT_MAD": 9359.81
+      },
+      "moteur lave glace": {
+        "Count": 1,
+        "Total_HT_MAD": 192.31
+      },
+      "moteur stationnement": {
+        "Count": 1,
+        "Total_HT_MAD": 1416.67
+      },
+      "moyeau av d": {
+        "Count": 1,
+        "Total_HT_MAD": 828.0
+      },
+      "moyeu ar": {
+        "Count": 4,
+        "Total_HT_MAD": 3436.41
+      },
+      "paration moteur": {
+        "Count": 1,
+        "Total_HT_MAD": 7358.33
+      },
+      "pate joint carter": {
+        "Count": 1,
+        "Total_HT_MAD": 140.0
+      },
+      "pipe d eau": {
+        "Count": 11,
+        "Total_HT_MAD": 8540.37
+      },
+      "piston": {
+        "Count": 3,
+        "Total_HT_MAD": 4266.67
+      },
+      "pochette moteur": {
+        "Count": 3,
+        "Total_HT_MAD": 7900.0
+      },
+      "pompe a eau": {
+        "Count": 86,
+        "Total_HT_MAD": 47042.52
+      },
+      "pompe a gasoil": {
+        "Count": 1,
+        "Total_HT_MAD": 1983.33
+      },
+      "pompe a huile": {
+        "Count": 2,
+        "Total_HT_MAD": 6793.64
+      },
+      "pompe a injection mecanique": {
+        "Count": 1,
+        "Total_HT_MAD": 1500.0
+      },
+      "pompe a vide": {
+        "Count": 4,
+        "Total_HT_MAD": 6368.59
+      },
+      "pompe assistee": {
+        "Count": 3,
+        "Total_HT_MAD": 4213.46
+      },
+      "pompe d amora age de gasoil": {
+        "Count": 2,
+        "Total_HT_MAD": 2017.95
+      },
+      "pompe de diction assistee": {
+        "Count": 2,
+        "Total_HT_MAD": 4102.56
+      },
+      "pompe de diction assitee": {
+        "Count": 1,
+        "Total_HT_MAD": 2564.1
+      },
+      "pompe lave glace": {
+        "Count": 6,
+        "Total_HT_MAD": 1491.85
+      },
+      "porte charbon": {
+        "Count": 1,
+        "Total_HT_MAD": 333.33
+      },
+      "poulie alternateur": {
+        "Count": 19,
+        "Total_HT_MAD": 7249.51
+      },
+      "poulie arb a came": {
+        "Count": 2,
+        "Total_HT_MAD": 1548.61
+      },
+      "poulie compsseur clim": {
+        "Count": 1,
+        "Total_HT_MAD": 625.0
+      },
+      "poulie damper d alternateur": {
+        "Count": 4,
+        "Total_HT_MAD": 2069.1
+      },
+      "poulie damper de vilebquin": {
+        "Count": 5,
+        "Total_HT_MAD": 5611.43
+      },
+      "poulie moteur cote chaine": {
+        "Count": 1,
+        "Total_HT_MAD": 2200.0
+      },
+      "poulie roue lib alternateur": {
+        "Count": 1,
+        "Total_HT_MAD": 307.69
+      },
+      "poulie vilebqui alternateur": {
+        "Count": 1,
+        "Total_HT_MAD": 955.0
+      },
+      "poussoi soupape": {
+        "Count": 2,
+        "Total_HT_MAD": 5538.46
+      },
+      "poussoir hydraulique": {
+        "Count": 1,
+        "Total_HT_MAD": 2000.0
+      },
+      "radiateur d eau": {
+        "Count": 2,
+        "Total_HT_MAD": 3221.54
+      },
+      "radiateur de chauffage": {
+        "Count": 2,
+        "Total_HT_MAD": 2153.85
+      },
+      "radiateur de climatisation": {
+        "Count": 1,
+        "Total_HT_MAD": 1089.74
+      },
+      "roulement arg": {
+        "Count": 11,
+        "Total_HT_MAD": 3417.07
+      },
+      "roulement avd": {
+        "Count": 19,
+        "Total_HT_MAD": 8901.07
+      },
+      "roulement de roue": {
+        "Count": 19,
+        "Total_HT_MAD": 8981.46
+      },
+      "roulement fusee avg": {
+        "Count": 19,
+        "Total_HT_MAD": 8883.39
+      },
+      "roulement porte": {
+        "Count": 2,
+        "Total_HT_MAD": 166.67
+      },
+      "segment": {
+        "Count": 12,
+        "Total_HT_MAD": 11938.39
+      },
+      "silanblouc ar": {
+        "Count": 1,
+        "Total_HT_MAD": 130.0
+      },
+      "silent bloc bar stabilisatri": {
+        "Count": 1,
+        "Total_HT_MAD": 84.0
+      },
+      "spiral volant": {
+        "Count": 7,
+        "Total_HT_MAD": 6883.33
+      },
+      "stabilisateur de tension": {
+        "Count": 1,
+        "Total_HT_MAD": 2307.69
+      },
+      "support": {
+        "Count": 8,
+        "Total_HT_MAD": 4180.94
+      },
+      "tendeur": {
+        "Count": 32,
+        "Total_HT_MAD": 18767.14
+      },
+      "testeur multifcts intell fv": {
+        "Count": 1,
+        "Total_HT_MAD": 0.0
+      },
+      "thermostat": {
+        "Count": 16,
+        "Total_HT_MAD": 21124.33
+      },
+      "triangle": {
+        "Count": 8,
+        "Total_HT_MAD": 6038.46
+      },
+      "tube d eau metallique": {
+        "Count": 1,
+        "Total_HT_MAD": 375.0
+      },
+      "turbo": {
+        "Count": 11,
+        "Total_HT_MAD": 31216.66
+      },
+      "tuyau": {
+        "Count": 8,
+        "Total_HT_MAD": 4084.62
+      },
+      "vase": {
+        "Count": 3,
+        "Total_HT_MAD": 2519.0
+      },
+      "ventilateur complet": {
+        "Count": 1,
+        "Total_HT_MAD": 750.0
+      },
+      "volant moteur": {
+        "Count": 1,
+        "Total_HT_MAD": 1500.0
+      },
+      "échangeur d'huile": {
+        "Count": 4,
+        "Total_HT_MAD": 0.0
+      }
+    },
+    "accessoire": {
+      "allume": {
+        "Count": 1,
+        "Total_HT_MAD": 128.21
+      },
+      "autre": {
+        "Count": 1,
+        "Total_HT_MAD": 190.0
+      },
+      "bouchon": {
+        "Count": 14,
+        "Total_HT_MAD": 811.44
+      },
+      "carter d huile": {
+        "Count": 6,
+        "Total_HT_MAD": 5848.1
+      },
+      "cle ins ": {
+        "Count": 1,
+        "Total_HT_MAD": 100.0
+      },
+      "cric": {
+        "Count": 6,
+        "Total_HT_MAD": 2883.97
+      },
+      "croise de roue": {
+        "Count": 2,
+        "Total_HT_MAD": 217.95
+      },
+      "cylind de roue": {
+        "Count": 1,
+        "Total_HT_MAD": 0.0
+      },
+      "enjoliveur": {
+        "Count": 1,
+        "Total_HT_MAD": 1200.0
+      },
+      "goujon de roue": {
+        "Count": 6,
+        "Total_HT_MAD": 1149.92
+      },
+      "jeux de charbon perceuse": {
+        "Count": 3,
+        "Total_HT_MAD": 600.0
+      },
+      "microfib de lustrage feu ver": {
+        "Count": 1,
+        "Total_HT_MAD": 24.16
+      },
+      "microfib de sechage feu vert": {
+        "Count": 2,
+        "Total_HT_MAD": 530.79
+      },
+      "microfib interieur feu vert": {
+        "Count": 3,
+        "Total_HT_MAD": 237.45
+      },
+      "microfib vits feu vert": {
+        "Count": 1,
+        "Total_HT_MAD": 158.3
+      },
+      "mo": {
+        "Count": 122,
+        "Total_HT_MAD": 23746.39
+      },
+      "nettoyant tissus et moquettes": {
+        "Count": 1,
+        "Total_HT_MAD": 65.83
+      },
+      "pa soleil d": {
+        "Count": 2,
+        "Total_HT_MAD": 1025.64
+      },
+      "pa soleil g": {
+        "Count": 2,
+        "Total_HT_MAD": 1037.82
+      },
+      "peau chamoisee natur l fv": {
+        "Count": 2,
+        "Total_HT_MAD": 2298.96
+      },
+      "tapis fv dacia duster": {
+        "Count": 4,
+        "Total_HT_MAD": 556.0
+      },
+      "tapis fv nault clio v": {
+        "Count": 2,
+        "Total_HT_MAD": 271.5
+      }
+    },
+    "achat externe": {
+      "achat externe": {
+        "Count": 36,
+        "Total_HT_MAD": 51493.41
+      },
+      "autre": {
+        "Count": 3,
+        "Total_HT_MAD": 759.55
+      }
+    },
+    "carrosserie": {
+      " Accessoirs": {
+        "Count": 69,
+        "Total_HT_MAD": 0.0
+      },
+      " leve vit": {
+        "Count": 2,
+        "Total_HT_MAD": 460.0
+      },
+      "Réparation": {
+        "Count": 2,
+        "Total_HT_MAD": 0.0
+      },
+      "accoudoi": {
+        "Count": 1,
+        "Total_HT_MAD": 615.38
+      },
+      "cache porte balai ar": {
+        "Count": 2,
+        "Total_HT_MAD": 222.0
+      },
+      "ceintu de securite avd": {
+        "Count": 2,
+        "Total_HT_MAD": 1102.56
+      },
+      "charnie malle ard": {
+        "Count": 1,
+        "Total_HT_MAD": 1041.66
+      },
+      "deflecteur d": {
+        "Count": 1,
+        "Total_HT_MAD": 1869.63
+      },
+      "feu eclaiur de plaque ar": {
+        "Count": 1,
+        "Total_HT_MAD": 1089.73
+      },
+      "jante": {
+        "Count": 2,
+        "Total_HT_MAD": 979.49
+      },
+      "mecanisme avant g": {
+        "Count": 1,
+        "Total_HT_MAD": 897.44
+      },
+      "mecanisme leve vit avant g": {
+        "Count": 1,
+        "Total_HT_MAD": 1153.85
+      },
+      "mecanisme lv vit avg": {
+        "Count": 3,
+        "Total_HT_MAD": 2987.17
+      },
+      "mecanisme lv vitr electr man": {
+        "Count": 10,
+        "Total_HT_MAD": 7096.91
+      },
+      "mecanisme lv vitr porte av d": {
+        "Count": 1,
+        "Total_HT_MAD": 350.0
+      },
+      "optique pha d": {
+        "Count": 1,
+        "Total_HT_MAD": 2375.0
+      },
+      "pa brise": {
+        "Count": 1,
+        "Total_HT_MAD": 6923.08
+      },
+      "pabrise": {
+        "Count": 1,
+        "Total_HT_MAD": 1407.14
+      },
+      "plaque chrome sur pa choc ar": {
+        "Count": 2,
+        "Total_HT_MAD": 966.0
+      },
+      "poignee coussin siege": {
+        "Count": 1,
+        "Total_HT_MAD": 400.0
+      },
+      "poignee de porte": {
+        "Count": 8,
+        "Total_HT_MAD": 7157.69
+      },
+      "poignee de porte ext avd": {
+        "Count": 1,
+        "Total_HT_MAD": 208.33
+      },
+      "radar de cul av": {
+        "Count": 1,
+        "Total_HT_MAD": 2000.0
+      },
+      "radar pa choc arr": {
+        "Count": 1,
+        "Total_HT_MAD": 2000.0
+      },
+      "roulette porte coulisse": {
+        "Count": 11,
+        "Total_HT_MAD": 13721.17
+      },
+      "serru porte": {
+        "Count": 16,
+        "Total_HT_MAD": 12745.08
+      },
+      "serru porte batt dt inf": {
+        "Count": 1,
+        "Total_HT_MAD": 1800.0
+      },
+      "signal sur aile avd": {
+        "Count": 1,
+        "Total_HT_MAD": 1025.64
+      }
+    },
+    "electrique": {
+      " alternateur": {
+        "Count": 4,
+        "Total_HT_MAD": 0.0
+      },
+      " pile cl": {
+        "Count": 96,
+        "Total_HT_MAD": 1.0
+      },
+      "Relais": {
+        "Count": 2,
+        "Total_HT_MAD": 2322.0
+      },
+      "alternateur": {
+        "Count": 12,
+        "Total_HT_MAD": 14170.51
+      },
+      "avertisseur": {
+        "Count": 30,
+        "Total_HT_MAD": 4030.49
+      },
+      "batterie": {
+        "Count": 930,
+        "Total_HT_MAD": 450035.86
+      },
+      "bendix demarur": {
+        "Count": 5,
+        "Total_HT_MAD": 1388.0
+      },
+      "bouton": {
+        "Count": 4,
+        "Total_HT_MAD": 1892.3
+      },
+      "cables demarrage": {
+        "Count": 1,
+        "Total_HT_MAD": 615.0
+      },
+      "calculateur airbag": {
+        "Count": 2,
+        "Total_HT_MAD": 2950.0
+      },
+      "capteur": {
+        "Count": 1,
+        "Total_HT_MAD": 576.92
+      },
+      "capteur abs": {
+        "Count": 1,
+        "Total_HT_MAD": 493.59
+      },
+      "capteur abs arr": {
+        "Count": 7,
+        "Total_HT_MAD": 4655.08
+      },
+      "capteur angle volant": {
+        "Count": 2,
+        "Total_HT_MAD": 4010.0
+      },
+      "capteur de pssion carburant": {
+        "Count": 2,
+        "Total_HT_MAD": 830.0
+      },
+      "capteur gime moteur vilebr": {
+        "Count": 1,
+        "Total_HT_MAD": 700.0
+      },
+      "capteur l arb cames": {
+        "Count": 1,
+        "Total_HT_MAD": 420.0
+      },
+      "commande climatiseur": {
+        "Count": 3,
+        "Total_HT_MAD": 4510.0
+      },
+      "commande d eclairage": {
+        "Count": 87,
+        "Total_HT_MAD": 35241.3
+      },
+      "commande sous volant": {
+        "Count": 7,
+        "Total_HT_MAD": 10850.0
+      },
+      "commande volume poste radio": {
+        "Count": 2,
+        "Total_HT_MAD": 490.0
+      },
+      "contacteur de feu stop": {
+        "Count": 1,
+        "Total_HT_MAD": 0.0
+      },
+      "douille lampe": {
+        "Count": 3,
+        "Total_HT_MAD": 775.0
+      },
+      "fusible n 15a": {
+        "Count": 4,
+        "Total_HT_MAD": 35.0
+      },
+      "fusible n 30a": {
+        "Count": 1,
+        "Total_HT_MAD": 4.0
+      },
+      "gicleur telescope optique g": {
+        "Count": 1,
+        "Total_HT_MAD": 51.28
+      },
+      "gulateur": {
+        "Count": 1,
+        "Total_HT_MAD": 532.0
+      },
+      "interrupteur leve vit porte": {
+        "Count": 61,
+        "Total_HT_MAD": 28816.56
+      },
+      "interrupteur vit porte g": {
+        "Count": 1,
+        "Total_HT_MAD": 500.0
+      },
+      "lais": {
+        "Count": 1,
+        "Total_HT_MAD": 0.0
+      },
+      "lais pchauffage": {
+        "Count": 1,
+        "Total_HT_MAD": 400.0
+      },
+      "lampe 12v": {
+        "Count": 30,
+        "Total_HT_MAD": 1728.6
+      },
+      "lampe 12v blanc": {
+        "Count": 40,
+        "Total_HT_MAD": 1064.0
+      },
+      "lampe 1p": {
+        "Count": 707,
+        "Total_HT_MAD": 7043.21
+      },
+      "lampe 2p": {
+        "Count": 147,
+        "Total_HT_MAD": 1178.03
+      },
+      "lampe 2p w 21 5w 12v": {
+        "Count": 32,
+        "Total_HT_MAD": 336.0
+      },
+      "lampe d3s": {
+        "Count": 14,
+        "Total_HT_MAD": 14452.0
+      },
+      "lampe h1": {
+        "Count": 8,
+        "Total_HT_MAD": 236.51
+      },
+      "lampe h11": {
+        "Count": 11,
+        "Total_HT_MAD": 1065.85
+      },
+      "lampe h15": {
+        "Count": 17,
+        "Total_HT_MAD": 2851.9
+      },
+      "lampe h16": {
+        "Count": 10,
+        "Total_HT_MAD": 3114.85
+      },
+      "lampe h27": {
+        "Count": 5,
+        "Total_HT_MAD": 1174.36
+      },
+      "lampe h4": {
+        "Count": 205,
+        "Total_HT_MAD": 7271.02
+      },
+      "lampe h7": {
+        "Count": 283,
+        "Total_HT_MAD": 11278.32
+      },
+      "lampe h8": {
+        "Count": 3,
+        "Total_HT_MAD": 420.51
+      },
+      "lampe navette": {
+        "Count": 51,
+        "Total_HT_MAD": 1254.44
+      },
+      "lampe veilleuse": {
+        "Count": 180,
+        "Total_HT_MAD": 5471.57
+      },
+      "mano marche arr": {
+        "Count": 1,
+        "Total_HT_MAD": 153.85
+      },
+      "pile alca lith chargeable": {
+        "Count": 20,
+        "Total_HT_MAD": 200.0
+      },
+      "pile telecommande": {
+        "Count": 206,
+        "Total_HT_MAD": 6946.97
+      },
+      "porte lampe feu de stop arr d": {
+        "Count": 2,
+        "Total_HT_MAD": 525.0
+      },
+      "porte lampe feu de stop arr g": {
+        "Count": 1,
+        "Total_HT_MAD": 250.0
+      },
+      "poste radio": {
+        "Count": 3,
+        "Total_HT_MAD": 3141.03
+      },
+      "sistance motoventilateur": {
+        "Count": 4,
+        "Total_HT_MAD": 2108.72
+      }
+    },
+    "pneumatique": {
+      "equilibrage": {
+        "Count": 1,
+        "Total_HT_MAD": 84.0
+      },
+      "parralelisme": {
+        "Count": 2,
+        "Total_HT_MAD": 226.66
+      },
+      "pneu": {
+        "Count": 1173,
+        "Total_HT_MAD": 927759.19
+      }
+    },
+    "service rapide": {
+      "Filtre gazoil": {
+        "Count": 259,
+        "Total_HT_MAD": 76321.82
+      },
+      "HUILE MOTEUR": {
+        "Count": 6101,
+        "Total_HT_MAD": 689984.85
+      },
+      "adblue": {
+        "Count": 378,
+        "Total_HT_MAD": 25530.79
+      },
+      "additif": {
+        "Count": 19,
+        "Total_HT_MAD": 50836.71
+      },
+      "antigel": {
+        "Count": 113,
+        "Total_HT_MAD": 14714.33
+      },
+      "balais essuie glace": {
+        "Count": 982,
+        "Total_HT_MAD": 101071.26
+      },
+      "filt air": {
+        "Count": 1,
+        "Total_HT_MAD": 149.0
+      },
+      "filtre air": {
+        "Count": 2290,
+        "Total_HT_MAD": 103763.29
+      },
+      "filtre huile": {
+        "Count": 6028,
+        "Total_HT_MAD": 156236.16
+      },
+      "filtre pollen": {
+        "Count": 390,
+        "Total_HT_MAD": 23055.78
+      },
+      "huile BV": {
+        "Count": 76,
+        "Total_HT_MAD": 11074.6
+      },
+      "huile diction": {
+        "Count": 26,
+        "Total_HT_MAD": 2411.54
+      },
+      "plaquette": {
+        "Count": 35,
+        "Total_HT_MAD": 7987.59
+      },
+      "plaquette frein": {
+        "Count": 2838,
+        "Total_HT_MAD": 554538.29
+      },
+      "temoins d usu": {
+        "Count": 14,
+        "Total_HT_MAD": 6858.48
+      },
+      "vidange": {
+        "Count": 4998,
+        "Total_HT_MAD": 13756.43
+      }
+    }
+  },
+  "2025": {
+    "Diagnostic": {
+      "Diagnostic": {
+        "Count": 1489,
+        "Total_HT_MAD": 60796.8
+      }
+    },
+    "Mécanique": {
+      " demarur": {
+        "Count": 41,
+        "Total_HT_MAD": 3219.6
+      },
+      " durite": {
+        "Count": 5,
+        "Total_HT_MAD": 369.6
+      },
+      " pompe eau": {
+        "Count": 1,
+        "Total_HT_MAD": 120.0
+      },
+      " roulement": {
+        "Count": 15,
+        "Total_HT_MAD": 1680.0
+      },
+      " thermostat d eau": {
+        "Count": 1,
+        "Total_HT_MAD": 120.0
+      },
+      "ARRET D HUILE": {
+        "Count": 3,
+        "Total_HT_MAD": 1642.49
+      },
+      "Crémaillè": {
+        "Count": 2,
+        "Total_HT_MAD": 6250.0
+      },
+      "Réparation": {
+        "Count": 14,
+        "Total_HT_MAD": 1021.2
+      },
+      "Réparation éclairage": {
+        "Count": 368,
+        "Total_HT_MAD": 6760.8
+      },
+      "amortisseur": {
+        "Count": 81,
+        "Total_HT_MAD": 60930.6
+      },
+      "bar stabilisatrice": {
+        "Count": 1,
+        "Total_HT_MAD": 1200.0
+      },
+      "bielette": {
+        "Count": 3,
+        "Total_HT_MAD": 2114.77
+      },
+      "bouchon": {
+        "Count": 1,
+        "Total_HT_MAD": 62.5
+      },
+      "bougie": {
+        "Count": 5,
+        "Total_HT_MAD": 2109.12
+      },
+      "bougies": {
+        "Count": 2,
+        "Total_HT_MAD": 180.0
+      },
+      "boîte à vitesse": {
+        "Count": 9,
+        "Total_HT_MAD": 24160.0
+      },
+      "capteur de pssion d huile": {
+        "Count": 1,
+        "Total_HT_MAD": 87.75
+      },
+      "ccessoi meca": {
+        "Count": 1,
+        "Total_HT_MAD": 441.18
+      },
+      "chang courroie alternateur": {
+        "Count": 3,
+        "Total_HT_MAD": 120.0
+      },
+      "charge climatisation": {
+        "Count": 7,
+        "Total_HT_MAD": 212.4
+      },
+      "collecteur d echappement": {
+        "Count": 1,
+        "Total_HT_MAD": 1583.33
+      },
+      "courroie alternateur": {
+        "Count": 16,
+        "Total_HT_MAD": 3112.3
+      },
+      "courroie d accessoi": {
+        "Count": 77,
+        "Total_HT_MAD": 9702.5
+      },
+      "courroie d alternateur": {
+        "Count": 1,
+        "Total_HT_MAD": 150.0
+      },
+      "debima t d air": {
+        "Count": 1,
+        "Total_HT_MAD": 1125.0
+      },
+      "demarur": {
+        "Count": 50,
+        "Total_HT_MAD": 48525.0
+      },
+      "disque frein": {
+        "Count": 107,
+        "Total_HT_MAD": 81767.29
+      },
+      "durite": {
+        "Count": 6,
+        "Total_HT_MAD": 8317.29
+      },
+      "durite air intercoller": {
+        "Count": 4,
+        "Total_HT_MAD": 5126.78
+      },
+      "durite radiateur d eau": {
+        "Count": 1,
+        "Total_HT_MAD": 1000.0
+      },
+      "echangeur thermique": {
+        "Count": 14,
+        "Total_HT_MAD": 8802.46
+      },
+      "electrovane d chappement": {
+        "Count": 2,
+        "Total_HT_MAD": 1400.0
+      },
+      "electrovane egr": {
+        "Count": 8,
+        "Total_HT_MAD": 19202.5
+      },
+      "embrayage": {
+        "Count": 58,
+        "Total_HT_MAD": 70916.65
+      },
+      "etrier de fin av ar": {
+        "Count": 1,
+        "Total_HT_MAD": 1350.0
+      },
+      "fin a main": {
+        "Count": 2,
+        "Total_HT_MAD": 1700.0
+      },
+      "froidisseur d huile": {
+        "Count": 1,
+        "Total_HT_MAD": 1624.99
+      },
+      "fusee avd": {
+        "Count": 1,
+        "Total_HT_MAD": 1100.0
+      },
+      "gaz de climatisation": {
+        "Count": 1,
+        "Total_HT_MAD": 2166.66
+      },
+      "groupe cylind": {
+        "Count": 1,
+        "Total_HT_MAD": 9750.0
+      },
+      "intercooler echangeur d air": {
+        "Count": 1,
+        "Total_HT_MAD": 1025.64
+      },
+      "joint cache soupape": {
+        "Count": 1,
+        "Total_HT_MAD": 125.19
+      },
+      "joint de culasse": {
+        "Count": 4,
+        "Total_HT_MAD": 1483.8
+      },
+      "joint ent porte arg": {
+        "Count": 1,
+        "Total_HT_MAD": 1000.0
+      },
+      "joint inf de porte avd": {
+        "Count": 1,
+        "Total_HT_MAD": 1350.0
+      },
+      "joint inf porte avg": {
+        "Count": 2,
+        "Total_HT_MAD": 1950.0
+      },
+      "joint porte arg": {
+        "Count": 1,
+        "Total_HT_MAD": 825.0
+      },
+      "joint porte av g": {
+        "Count": 2,
+        "Total_HT_MAD": 1227.75
+      },
+      "joint porte collissante lat dt": {
+        "Count": 2,
+        "Total_HT_MAD": 1700.0
+      },
+      "kit de distribution": {
+        "Count": 219,
+        "Total_HT_MAD": 118091.96
+      },
+      "levier boite de vitesse": {
+        "Count": 3,
+        "Total_HT_MAD": 6833.33
+      },
+      "liquide de fin 1l": {
+        "Count": 9,
+        "Total_HT_MAD": 375.0
+      },
+      "liquide de fin 450 ml": {
+        "Count": 49,
+        "Total_HT_MAD": 2186.25
+      },
+      "manivelle": {
+        "Count": 3,
+        "Total_HT_MAD": 316.66
+      },
+      "moteur complet": {
+        "Count": 1,
+        "Total_HT_MAD": 14000.0
+      },
+      "moteur essuie glace": {
+        "Count": 1,
+        "Total_HT_MAD": 1250.0
+      },
+      "moteur lave glace": {
+        "Count": 2,
+        "Total_HT_MAD": 600.0
+      },
+      "pipe d eau": {
+        "Count": 3,
+        "Total_HT_MAD": 1195.28
+      },
+      "pompe a eau": {
+        "Count": 21,
+        "Total_HT_MAD": 11999.25
+      },
+      "pompe a huile": {
+        "Count": 2,
+        "Total_HT_MAD": 2004.45
+      },
+      "pompe d amora age de gasoil": {
+        "Count": 1,
+        "Total_HT_MAD": 2850.0
+      },
+      "pompe lave glace": {
+        "Count": 2,
+        "Total_HT_MAD": 486.0
+      },
+      "poulie damper d alternateur": {
+        "Count": 1,
+        "Total_HT_MAD": 487.18
+      },
+      "poulie damper de vilebquin": {
+        "Count": 1,
+        "Total_HT_MAD": 875.0
+      },
+      "poulie roue lib alternateur": {
+        "Count": 2,
+        "Total_HT_MAD": 2298.71
+      },
+      "poussoir hydraulique": {
+        "Count": 2,
+        "Total_HT_MAD": 7575.0
+      },
+      "radiateur d eau": {
+        "Count": 1,
+        "Total_HT_MAD": 1326.0
+      },
+      "radiateur de chauffage": {
+        "Count": 2,
+        "Total_HT_MAD": 4700.0
+      },
+      "radiateur de froidissement": {
+        "Count": 1,
+        "Total_HT_MAD": 2550.0
+      },
+      "roulement arg": {
+        "Count": 4,
+        "Total_HT_MAD": 1582.2
+      },
+      "roulement avd": {
+        "Count": 11,
+        "Total_HT_MAD": 3762.85
+      },
+      "roulement de roue": {
+        "Count": 6,
+        "Total_HT_MAD": 3224.94
+      },
+      "roulement fusee avg": {
+        "Count": 6,
+        "Total_HT_MAD": 2319.75
+      },
+      "segment": {
+        "Count": 1,
+        "Total_HT_MAD": 800.0
+      },
+      "support": {
+        "Count": 10,
+        "Total_HT_MAD": 7700.58
+      },
+      "tendeur": {
+        "Count": 10,
+        "Total_HT_MAD": 4877.14
+      },
+      "thermostat": {
+        "Count": 9,
+        "Total_HT_MAD": 15937.56
+      },
+      "triangle": {
+        "Count": 6,
+        "Total_HT_MAD": 5874.37
+      },
+      "tube distributeur": {
+        "Count": 1,
+        "Total_HT_MAD": 1500.0
+      },
+      "turbo": {
+        "Count": 8,
+        "Total_HT_MAD": 32250.0
+      },
+      "tuyau": {
+        "Count": 7,
+        "Total_HT_MAD": 5695.43
+      },
+      "vase": {
+        "Count": 1,
+        "Total_HT_MAD": 1950.0
+      },
+      "ventilateur complet": {
+        "Count": 1,
+        "Total_HT_MAD": 1500.0
+      },
+      "vilebquin": {
+        "Count": 1,
+        "Total_HT_MAD": 1800.0
+      },
+      "volant moteur": {
+        "Count": 4,
+        "Total_HT_MAD": 15736.66
+      },
+      "échangeur d'huile": {
+        "Count": 2,
+        "Total_HT_MAD": 249.6
+      }
+    },
+    "accessoire": {
+      "bouchon": {
+        "Count": 11,
+        "Total_HT_MAD": 2781.8
+      },
+      "carter d huile": {
+        "Count": 2,
+        "Total_HT_MAD": 3600.0
+      },
+      "cl de roue": {
+        "Count": 1,
+        "Total_HT_MAD": 100.0
+      },
+      "cosse a batterie": {
+        "Count": 1,
+        "Total_HT_MAD": 50.0
+      },
+      "cric": {
+        "Count": 3,
+        "Total_HT_MAD": 791.66
+      },
+      "jeux de charbon perceuse": {
+        "Count": 2,
+        "Total_HT_MAD": 540.0
+      },
+      "mo": {
+        "Count": 301,
+        "Total_HT_MAD": 41515.34
+      },
+      "pa soleil g": {
+        "Count": 1,
+        "Total_HT_MAD": 525.0
+      },
+      "plaque constructeur": {
+        "Count": 1,
+        "Total_HT_MAD": 33.0
+      },
+      "tapis fv dacia duster": {
+        "Count": 6,
+        "Total_HT_MAD": 1251.0
+      },
+      "tapis fv nault clio v": {
+        "Count": 8,
+        "Total_HT_MAD": 1590.0
+      }
+    },
+    "achat externe": {
+      "achat externe": {
+        "Count": 1,
+        "Total_HT_MAD": 120.0
+      },
+      "autre": {
+        "Count": 64,
+        "Total_HT_MAD": 8314.58
+      }
+    },
+    "carrosserie": {
+      " leve vit": {
+        "Count": 1,
+        "Total_HT_MAD": 345.0
+      },
+      "Réparation": {
+        "Count": 3,
+        "Total_HT_MAD": 279.6
+      },
+      "aerateur": {
+        "Count": 1,
+        "Total_HT_MAD": 1000.0
+      },
+      "art de porte int ar d": {
+        "Count": 1,
+        "Total_HT_MAD": 1200.0
+      },
+      "charnie porte battante ard": {
+        "Count": 2,
+        "Total_HT_MAD": 4975.0
+      },
+      "feu de stop ar d": {
+        "Count": 1,
+        "Total_HT_MAD": 712.5
+      },
+      "jante tole": {
+        "Count": 1,
+        "Total_HT_MAD": 562.5
+      },
+      "mecanisme leve vit avant g": {
+        "Count": 1,
+        "Total_HT_MAD": 1125.0
+      },
+      "mecanisme lv vitr electr man": {
+        "Count": 3,
+        "Total_HT_MAD": 3325.0
+      },
+      "optique pha d": {
+        "Count": 1,
+        "Total_HT_MAD": 2820.51
+      },
+      "poignee de porte": {
+        "Count": 5,
+        "Total_HT_MAD": 1775.0
+      },
+      "radar de cul av": {
+        "Count": 1,
+        "Total_HT_MAD": 250.0
+      },
+      "radar pa choc arr": {
+        "Count": 3,
+        "Total_HT_MAD": 1869.23
+      },
+      "roulette porte coulisse": {
+        "Count": 1,
+        "Total_HT_MAD": 800.0
+      },
+      "serru coff": {
+        "Count": 1,
+        "Total_HT_MAD": 2475.0
+      },
+      "serru malle arr": {
+        "Count": 1,
+        "Total_HT_MAD": 1200.0
+      },
+      "serru porte": {
+        "Count": 8,
+        "Total_HT_MAD": 10950.0
+      }
+    },
+    "electrique": {
+      " alternateur": {
+        "Count": 6,
+        "Total_HT_MAD": 696.0
+      },
+      " pile cl": {
+        "Count": 41,
+        "Total_HT_MAD": 446.4
+      },
+      "alternateur": {
+        "Count": 11,
+        "Total_HT_MAD": 18662.5
+      },
+      "avertisseur": {
+        "Count": 7,
+        "Total_HT_MAD": 1323.41
+      },
+      "batterie": {
+        "Count": 351,
+        "Total_HT_MAD": 157137.34
+      },
+      "bendix demarur": {
+        "Count": 1,
+        "Total_HT_MAD": 580.0
+      },
+      "bouton": {
+        "Count": 15,
+        "Total_HT_MAD": 2250.0
+      },
+      "capteur abs": {
+        "Count": 3,
+        "Total_HT_MAD": 2437.5
+      },
+      "capteur abs av": {
+        "Count": 2,
+        "Total_HT_MAD": 660.0
+      },
+      "capteur angle volant": {
+        "Count": 2,
+        "Total_HT_MAD": 3762.5
+      },
+      "capteur de pssion carburant": {
+        "Count": 3,
+        "Total_HT_MAD": 278.24
+      },
+      "capteur trappe carburant": {
+        "Count": 1,
+        "Total_HT_MAD": 600.0
+      },
+      "commande d eclairage": {
+        "Count": 16,
+        "Total_HT_MAD": 9437.24
+      },
+      "contacteur de feu stop": {
+        "Count": 3,
+        "Total_HT_MAD": 443.75
+      },
+      "douille lampe": {
+        "Count": 1,
+        "Total_HT_MAD": 133.33
+      },
+      "fusible n 15a": {
+        "Count": 2,
+        "Total_HT_MAD": 45.0
+      },
+      "fusible n 30a": {
+        "Count": 1,
+        "Total_HT_MAD": 0.75
+      },
+      "glage d optique av": {
+        "Count": 1,
+        "Total_HT_MAD": 1050.0
+      },
+      "gulateur": {
+        "Count": 1,
+        "Total_HT_MAD": 2100.0
+      },
+      "interrupteur leve vit porte": {
+        "Count": 26,
+        "Total_HT_MAD": 7924.31
+      },
+      "lampe 12v blanc": {
+        "Count": 3,
+        "Total_HT_MAD": 61.23
+      },
+      "lampe 1p": {
+        "Count": 325,
+        "Total_HT_MAD": 3036.31
+      },
+      "lampe 2p": {
+        "Count": 5,
+        "Total_HT_MAD": 49.73
+      },
+      "lampe h16": {
+        "Count": 3,
+        "Total_HT_MAD": 692.22
+      },
+      "lampe h27": {
+        "Count": 1,
+        "Total_HT_MAD": 20.51
+      },
+      "lampe h4": {
+        "Count": 50,
+        "Total_HT_MAD": 1492.96
+      },
+      "lampe h7": {
+        "Count": 121,
+        "Total_HT_MAD": 5284.96
+      },
+      "lampe hb3": {
+        "Count": 3,
+        "Total_HT_MAD": 140.0
+      },
+      "lampe navette": {
+        "Count": 7,
+        "Total_HT_MAD": 252.0
+      },
+      "lampe veilleuse": {
+        "Count": 72,
+        "Total_HT_MAD": 602.94
+      },
+      "mano marche arr": {
+        "Count": 1,
+        "Total_HT_MAD": 160.88
+      },
+      "pile telecommande": {
+        "Count": 73,
+        "Total_HT_MAD": 1648.39
+      },
+      "porte lampe feu de stop arr d": {
+        "Count": 1,
+        "Total_HT_MAD": 350.0
+      },
+      "porte lampe feu de stop arr g": {
+        "Count": 1,
+        "Total_HT_MAD": 1170.34
+      },
+      "poste radio": {
+        "Count": 6,
+        "Total_HT_MAD": 5169.23
+      },
+      "poste radio epave": {
+        "Count": 1,
+        "Total_HT_MAD": 1200.0
+      },
+      "sistance motoventilateur": {
+        "Count": 2,
+        "Total_HT_MAD": 2100.0
+      },
+      "temporisateur de pchauffage": {
+        "Count": 1,
+        "Total_HT_MAD": 800.0
+      }
+    },
+    "pneumatique": {
+      "equilibrage": {
+        "Count": 3,
+        "Total_HT_MAD": 170.1
+      },
+      "parralelisme": {
+        "Count": 2,
+        "Total_HT_MAD": 300.0
+      },
+      "pneu": {
+        "Count": 1112,
+        "Total_HT_MAD": 912224.29
+      }
+    },
+    "service rapide": {
+      "Filtre gazoil": {
+        "Count": 68,
+        "Total_HT_MAD": 16309.6
+      },
+      "HUILE MOTEUR": {
+        "Count": 2545,
+        "Total_HT_MAD": 802824.15
+      },
+      "adblue": {
+        "Count": 262,
+        "Total_HT_MAD": 17979.3
+      },
+      "additif": {
+        "Count": 2,
+        "Total_HT_MAD": 2812.5
+      },
+      "antigel": {
+        "Count": 51,
+        "Total_HT_MAD": 5061.79
+      },
+      "balais essuie glace": {
+        "Count": 384,
+        "Total_HT_MAD": 41992.11
+      },
+      "filtre air": {
+        "Count": 411,
+        "Total_HT_MAD": 30551.1
+      },
+      "filtre huile": {
+        "Count": 2521,
+        "Total_HT_MAD": 88676.39
+      },
+      "filtre pollen": {
+        "Count": 122,
+        "Total_HT_MAD": 9712.33
+      },
+      "huile BV": {
+        "Count": 35,
+        "Total_HT_MAD": 7019.99
+      },
+      "huile diction": {
+        "Count": 16,
+        "Total_HT_MAD": 975.0
+      },
+      "plaquette": {
+        "Count": 14,
+        "Total_HT_MAD": 3423.0
+      },
+      "plaquette frein": {
+        "Count": 1331,
+        "Total_HT_MAD": 243095.51
+      },
+      "temoins d usu": {
+        "Count": 3,
+        "Total_HT_MAD": 686.1
+      },
+      "vidange": {
+        "Count": 2387,
+        "Total_HT_MAD": 115294.33
+      }
+    }
+  }
+}

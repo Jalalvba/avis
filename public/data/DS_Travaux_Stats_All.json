@@ -1,0 +1,600 @@
+{
+  "meta": [
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05"
+  ],
+  "data": {
+    "2024-01": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 3,
+        "Total_HT_MAD": 5186.49
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 95,
+        "Total_HT_MAD": 2345.46
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 80,
+        "Total_HT_MAD": 50988.29
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 77,
+        "Total_HT_MAD": 127535.32
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 29,
+        "Total_HT_MAD": 26981.6
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 537,
+        "Total_HT_MAD": 235235.15
+      }
+    ],
+    "2024-02": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 6,
+        "Total_HT_MAD": 6143.53
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 90,
+        "Total_HT_MAD": 9000.0
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 75,
+        "Total_HT_MAD": 23991.76
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 75,
+        "Total_HT_MAD": 123419.31
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 35,
+        "Total_HT_MAD": 46178.96
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 556,
+        "Total_HT_MAD": 171976.9
+      }
+    ],
+    "2024-03": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 8,
+        "Total_HT_MAD": 3664.67
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 104,
+        "Total_HT_MAD": 11594.33
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 64,
+        "Total_HT_MAD": 29894.19
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 61,
+        "Total_HT_MAD": 67483.51
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 66,
+        "Total_HT_MAD": 75920.04
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 499,
+        "Total_HT_MAD": 163132.13
+      }
+    ],
+    "2024-04": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 7,
+        "Total_HT_MAD": 1947.38
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 94,
+        "Total_HT_MAD": 1323.0
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 65,
+        "Total_HT_MAD": 32968.49
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 66,
+        "Total_HT_MAD": 54926.32
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 48,
+        "Total_HT_MAD": 52578.0
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 558,
+        "Total_HT_MAD": 173105.62
+      }
+    ],
+    "2024-05": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 3,
+        "Total_HT_MAD": 2654.49
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 88,
+        "Total_HT_MAD": 2012.82
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 51,
+        "Total_HT_MAD": 39459.92
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 99,
+        "Total_HT_MAD": 106436.4
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 105,
+        "Total_HT_MAD": 127546.28
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 619,
+        "Total_HT_MAD": 206893.77
+      }
+    ],
+    "2024-06": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 4,
+        "Total_HT_MAD": 2543.59
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 58,
+        "Total_HT_MAD": 712.82
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 66,
+        "Total_HT_MAD": 33636.19
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 80,
+        "Total_HT_MAD": 115447.24
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 82,
+        "Total_HT_MAD": 96857.98
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 531,
+        "Total_HT_MAD": 220932.1
+      }
+    ],
+    "2024-07": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 13,
+        "Total_HT_MAD": 7754.43
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 119,
+        "Total_HT_MAD": 265.38
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 68,
+        "Total_HT_MAD": 36657.85
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 113,
+        "Total_HT_MAD": 178972.64
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 84,
+        "Total_HT_MAD": 106521.86
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 646,
+        "Total_HT_MAD": 259616.38
+      }
+    ],
+    "2024-08": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 1,
+        "Total_HT_MAD": 1407.14
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 78,
+        "Total_HT_MAD": 884.62
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 56,
+        "Total_HT_MAD": 28039.05
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 67,
+        "Total_HT_MAD": 76204.34
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 53,
+        "Total_HT_MAD": 60117.04
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 528,
+        "Total_HT_MAD": 184984.91
+      }
+    ],
+    "2024-09": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 2,
+        "Total_HT_MAD": 2452.96
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 105,
+        "Total_HT_MAD": 0.0
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 75,
+        "Total_HT_MAD": 46168.43
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 56,
+        "Total_HT_MAD": 59935.48
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 62,
+        "Total_HT_MAD": 58679.56
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 552,
+        "Total_HT_MAD": 187560.37
+      }
+    ],
+    "2024-10": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 6,
+        "Total_HT_MAD": 11448.07
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 172,
+        "Total_HT_MAD": 584.0
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 77,
+        "Total_HT_MAD": 41016.03
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 106,
+        "Total_HT_MAD": 130008.04
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 89,
+        "Total_HT_MAD": 111336.34
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 639,
+        "Total_HT_MAD": 213691.25
+      }
+    ],
+    "2024-11": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 4,
+        "Total_HT_MAD": 3775.26
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 132,
+        "Total_HT_MAD": 4765.02
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 54,
+        "Total_HT_MAD": 24230.4
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 74,
+        "Total_HT_MAD": 97808.07
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 80,
+        "Total_HT_MAD": 83894.87
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 614,
+        "Total_HT_MAD": 165881.68
+      }
+    ],
+    "2024-12": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 4,
+        "Total_HT_MAD": 4131.28
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 125,
+        "Total_HT_MAD": 3611.55
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 84,
+        "Total_HT_MAD": 52315.71
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 103,
+        "Total_HT_MAD": 107530.2
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 53,
+        "Total_HT_MAD": 63222.39
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 600,
+        "Total_HT_MAD": 192722.17
+      }
+    ],
+    "2025-01": [
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 88,
+        "Total_HT_MAD": 383.0
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 75,
+        "Total_HT_MAD": 35463.1
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 96,
+        "Total_HT_MAD": 120960.15
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 86,
+        "Total_HT_MAD": 71519.1
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 566,
+        "Total_HT_MAD": 199514.66
+      }
+    ],
+    "2025-02": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 3,
+        "Total_HT_MAD": 1371.33
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 71,
+        "Total_HT_MAD": 9674.4
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 60,
+        "Total_HT_MAD": 36007.27
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 97,
+        "Total_HT_MAD": 175652.63
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 112,
+        "Total_HT_MAD": 164225.12
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 533,
+        "Total_HT_MAD": 316785.26
+      }
+    ],
+    "2025-03": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 2,
+        "Total_HT_MAD": 3571.7
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 97,
+        "Total_HT_MAD": 9168.0
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 55,
+        "Total_HT_MAD": 35330.53
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 67,
+        "Total_HT_MAD": 81890.72
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 147,
+        "Total_HT_MAD": 203252.51
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 537,
+        "Total_HT_MAD": 328332.48
+      }
+    ],
+    "2025-04": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 5,
+        "Total_HT_MAD": 5339.2
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 102,
+        "Total_HT_MAD": 11278.55
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 56,
+        "Total_HT_MAD": 35814.65
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 94,
+        "Total_HT_MAD": 144360.8
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 171,
+        "Total_HT_MAD": 234521.37
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 623,
+        "Total_HT_MAD": 373249.98
+      }
+    ],
+    "2025-05": [
+      {
+        "type_travaux_dominant": "carrosserie",
+        "Nombre_DS": 3,
+        "Total_HT_MAD": 5164.8
+      },
+      {
+        "type_travaux_dominant": "diagnostic",
+        "Nombre_DS": 102,
+        "Total_HT_MAD": 12682.7
+      },
+      {
+        "type_travaux_dominant": "electrique",
+        "Nombre_DS": 50,
+        "Total_HT_MAD": 24069.59
+      },
+      {
+        "type_travaux_dominant": "mécanique",
+        "Nombre_DS": 86,
+        "Total_HT_MAD": 107244.03
+      },
+      {
+        "type_travaux_dominant": "pneumatique",
+        "Nombre_DS": 155,
+        "Total_HT_MAD": 238448.32
+      },
+      {
+        "type_travaux_dominant": "service rapide",
+        "Nombre_DS": 642,
+        "Total_HT_MAD": 396378.42
+      }
+    ]
+  },
+  "meta_reference": {
+    "carrosserie": {
+      "mean_total_ht": 926.44,
+      "std_total_ht": 1090.4,
+      "mean_nombre_ds": 4.35,
+      "std_nombre_ds": 3.06
+    },
+    "diagnostic": {
+      "mean_total_ht": 46.68,
+      "std_total_ht": 243.36,
+      "mean_nombre_ds": 101.18,
+      "std_nombre_ds": 25.94
+    },
+    "electrique": {
+      "mean_total_ht": 545.5,
+      "std_total_ht": 584.36,
+      "mean_nombre_ds": 65.35,
+      "std_nombre_ds": 10.8
+    },
+    "mécanique": {
+      "mean_total_ht": 1323.79,
+      "std_total_ht": 1807.38,
+      "mean_nombre_ds": 83.35,
+      "std_nombre_ds": 17.29
+    },
+    "pneumatique": {
+      "mean_total_ht": 1250.38,
+      "std_total_ht": 712.97,
+      "mean_nombre_ds": 85.71,
+      "std_nombre_ds": 41.27
+    },
+    "service rapide": {
+      "mean_total_ht": 407.97,
+      "std_total_ht": 488.77,
+      "mean_nombre_ds": 575.29,
+      "std_nombre_ds": 47.33
+    }
+  }
+}
