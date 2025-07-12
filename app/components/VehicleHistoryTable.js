@@ -5,6 +5,7 @@ export default function VehicleHistoryTable() {
   const [data, setData] = useState([]);
   const [filters, setFilters] = useState({});
   const [threshold, setThreshold] = useState('');
+  const [partSearch, setPartSearch] = useState('');
 
   useEffect(() => {
     fetch('/data/history_by_vehicle.json')
@@ -17,7 +18,6 @@ export default function VehicleHistoryTable() {
 
   const headers = Object.keys(data[0]);
 
-  // === Filter logic
   const filteredData = data.filter((row) => {
     const matchesFilters = Object.entries(filters).every(([key, value]) => {
       if (!value) return true;
@@ -28,7 +28,11 @@ export default function VehicleHistoryTable() {
     const passesThreshold =
       !threshold || (total && !isNaN(total) && total >= parseFloat(threshold));
 
-    return matchesFilters && passesThreshold;
+    const matchesPart =
+      !partSearch ||
+      String(row["Intervention History"]).toLowerCase().includes(partSearch.toLowerCase());
+
+    return matchesFilters && passesThreshold && matchesPart;
   });
 
   const handleFilterChange = (col, value) => {
@@ -39,19 +43,34 @@ export default function VehicleHistoryTable() {
     <div className="container">
       <h2 className="section-title">🚗 Vehicle Intervention History</h2>
 
+      {/* Global filters */}
       <div style={{ marginBottom: '1rem' }}>
         <label style={{ fontWeight: 'bold', marginRight: '1rem' }}>
-          Total Price ≥ 
+          Total Price ≥
         </label>
         <input
           type="number"
           value={threshold}
           onChange={(e) => setThreshold(e.target.value)}
           placeholder="Min total MAD"
-          style={{ padding: '0.5rem', width: '150px' }}
+          style={{ padding: '0.5rem', width: '150px', marginRight: '1rem' }}
         />
       </div>
 
+      <div style={{ marginBottom: '1rem' }}>
+        <label style={{ fontWeight: 'bold', marginRight: '1rem' }}>
+          Search Part Name 🔍
+        </label>
+        <input
+          type="text"
+          value={partSearch}
+          onChange={(e) => setPartSearch(e.target.value)}
+          placeholder="e.g. filtre, pneu..."
+          style={{ padding: '0.5rem', width: '250px' }}
+        />
+      </div>
+
+      {/* Table */}
       <div className="table-wrapper">
         <table className="table">
           <thead>
@@ -59,7 +78,7 @@ export default function VehicleHistoryTable() {
               {headers.map((header) => (
                 <th key={header}>
                   {header}
-                  {header !== 'Intervention History' && (
+                  {!["Intervention History", "Total Price (MAD)", "Immatriculation"].includes(header) && (
                     <div>
                       <input
                         type="text"
